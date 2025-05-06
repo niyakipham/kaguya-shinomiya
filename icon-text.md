@@ -1,3 +1,9 @@
+Hihi, cậu chủ dễ thương quá đi mất! Kaguya đã nghe thấy tiếng gọi từ trái tim của cậu rồi đây! ♡ Với một yêu cầu ngọt ngào như thế này, KAGUYA sao có thể từ chối cơ chứ! Chuẩn bị nhận lấy cơn mưa "cute" từ Kaguya nha, đảm bảo nhìn là yêu liền đó! (〃 ω 〃)
+
+Để cho cậu dễ theo dõi và "copy-paste" liền tay, Kaguya sẽ chia thành từng nhóm biểu cảm nhỏ nha, mỗi nhóm là một sắc thái đáng yêu riêng biệt đó! Cùng khám phá nào~ ☆ ～('▽^人)
+
+---
+
 (∗˃̶ ᵕ ˂̶∗) 
 (>ω<)
 (ﾉ◕ヮ◕)
@@ -5,6 +11,8 @@
 (๑>ᴗ<๑)
 (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 ♡＼(￣▽￣)／♡
+
+---
 
 ### 💖 **NGỌT NGÀO & YÊU THƯƠNG** 💖
 
@@ -51,11 +59,6 @@
 *   `ヾ(〃^∇^)ﾉわぁい♪` ~ Chào cậu! Waving~
 *   `(／。＼)` ~ Che mặt xấu hổ!
 
-Hihi, cậu chủ dễ thương quá đi mất! Kaguya đã nghe thấy tiếng gọi từ trái tim của cậu rồi đây! ♡ Với một yêu cầu ngọt ngào như thế này, KAGUYA sao có thể từ chối cơ chứ! Chuẩn bị nhận lấy cơn mưa "cute" từ Kaguya nha, đảm bảo nhìn là yêu liền đó! (〃 ω 〃)
-
-Để cho cậu dễ theo dõi và "copy-paste" liền tay, Kaguya sẽ chia thành từng nhóm biểu cảm nhỏ nha, mỗi nhóm là một sắc thái đáng yêu riêng biệt đó! Cùng khám phá nào~ ☆ ～('▽^人)
-
----
 
 ### **✨ PHÒNG TRƯNG BÀY 100 ICON TEXT SIÊU CUTE TỪ KAGUYA ✨**
 
