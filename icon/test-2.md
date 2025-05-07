@@ -201,3 +201,138 @@ Ai cũng có lúc "nóng máu" phải không nè? Những em kaomoji này sẽ g
 Uầy, Kaguya thấy "năng suất" ghê chưa nè! (づ｡◕‿‿◕｡)づ Thêm 3 chủ đề nữa vào bộ sưu tập rồi đó. Hi vọng những em kaomoji này sẽ giúp bạn biểu đạt cảm xúc thật "chanh sả" và "kawaii" nha!
 
 Giờ thì Kaguya hồi hộp chờ đợi phản hồi từ bạn lắm á! (ღ˘⌣˘ღ) Chúng mình sẽ tiếp tục với chủ đề nào tiếp theo trong danh sách "siêu to khổng lồ" đây? ✨
+
+AAAAA, bé Kaguya nghe tiếng gọi "thảm thiết" của bạn là tim mềm nhũn luôn rồi nè! (つω`｡) Đừng buồn nha, Kaguya ở đây rồi, mình tiếp tục "cày cuốc" để hoàn thành "sứ mệnh" kaomoji vĩ đại này ngay và luôn! 💪
+
+Lần này, chúng mình sẽ đến với những cảm xúc "rung rinh", những hành động thường ngày và thế giới động vật đáng yêu, cùng với những em kaomoji "không đụng hàng" và mấy chủ đề "mặn mòi" mà bạn yêu cầu nhé! Chuẩn bị tinh thần để "save" mỏi tay nào! 😉
+
+---
+
+**🥰 CHỦ ĐỀ 5: YÊU THƯƠNG & LÃNG MẠN (LOVE & ROMANTIC EMOTIONS) 🥰**
+
+Ai rồi cũng sẽ "say nắng" một ai đó, hoặc đơn giản là muốn lan tỏa tình yêu thương đến mọi người, đúng hông nè? List này dành cho những trái tim đang loạn nhịp đây! 💖
+
+| STT | Kaomoji                                       | Ý Nghĩa Siêu Cute Gợi Ý Từ Kaguya ✨                                                                                                |
+|-----|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 136 | `(｡♥‿♥｡)`                                     | Mắt hình trái tim, nụ cười ngọt ngào, "Yêu bạn mất rồi!".                                                                            |
+| 137 | `(づ￣ ³￣)づ`                                   | "Ôm một cái thật chặt nào!", kèm theo nụ hôn gió đáng yêu.                                                                       |
+| 138 | `(´｡• ω •｡`) ♡`                                | Nụ cười dịu dàng, trìu mến, kèm theo một trái tim nhỏ xinh thể hiện tình cảm chân thành.                                              |
+| 139 | `(ღ˘⌣˘ღ)`                                     | Nụ cười hạnh phúc, mãn nguyện, như đang chìm đắm trong tình yêu.                                                                   |
+| 140 | `(*＾3＾)/～♡`                                  | Gửi một nụ hôn gió cùng với trái tim bay xa, "Love youuu~".                                                                           |
+| 141 | `(ʃƪ˘ﻬ˘)`                                      | Hơi cúi đầu e thẹn, trái tim rung động, một tình yêu thầm kín và dịu dàng.                                                           |
+| 142 | `(人´∀｀)．☆．。．:*･°`                         | Như một lời chúc phúc, tình yêu lấp lánh như những vì sao, lan tỏa niềm vui và sự ngưỡng mộ.                                          |
+| 143 | `(ɔˆ ³(ˆ⌣ˆc)`                                  | Một nụ hôn nhẹ lên má, cử chỉ âu yếm và đầy tình cảm.                                                                               |
+| 144 | `ლ(╹◡╹ლ)`                                     | "Nắm tay tớ đi!" Dang rộng vòng tay, mời gọi một cách dễ thương.                                                                     |
+| 145 | `(〃ω〃)`                                       | Ôm mặt ngượng ngùng, mặt đỏ bừng vì hạnh phúc hoặc được ai đó tỏ tình.                                                              |
+| 146 | `(｡･ω･｡)ﾉ♡`                                   | Vẫy tay chào cùng với một trái tim nhỏ, "Gửi ngàn yêu thương!"                                                                        |
+| 147 | `♡＼(￣▽￣)／♡`                                 | "Yeah! Tình yêu chiến thắng!" Hai bên là trái tim, ở giữa là sự vui mừng hân hoan.                                                      |
+| 148 | `(─‿‿─)♡`                                     | Nụ cười mỉm hạnh phúc, mắt nhắm nghiền tận hưởng khoảnh khắc ngọt ngào, có trái tim bên cạnh.                                       |
+| 149 | `(´∀｀•) ♡ (•´∀｀)`                             | Hai người nhìn nhau trìu mến, trái tim ở giữa kết nối tình yêu của họ.                                                              |
+| 150 | `( i love you )`                              | Đơn giản và trực tiếp, dòng chữ nói lên tất cả.                                                                                    |
+| 151 | `(/ω＼)❤`                                     | Che mặt xấu hổ nhưng vẫn không giấu được trái tim đang đập loạn nhịp.                                                                 |
+| 152 | `(◍•ᴗ•◍)❤`                                     | Gương mặt tròn xoe đáng yêu, nụ cười hiền và một trái tim đỏ thắm.                                                                 |
+| 153 | `~(˘▾˘~)`                                      | Gửi một cái ôm ấm áp từ xa, "Miss you!".                                                                                           |
+| 154 | `(●´ω｀●)ゞ ❤`                                 | Vừa gãi đầu bẽn lẽn vừa thể hiện tình cảm, một sự ngại ngùng đáng yêu.                                                             |
+| 155 | `(っ´▽｀)っ)`                                    | Muốn ôm ai đó một cách dịu dàng và đầy yêu thương.                                                                                   |
+| 156 | `(♡ >ω< ♡)`                                   | Mắt hình trái tim, cười tít mắt, yêu đến "ná thở" luôn rồi!                                                                        |
+| 157 | `chu♥(人´3｀)⌒♡`                               | Gửi nụ hôn "chu" ngọt ngào cùng với trái tim, một sự bày tỏ tình cảm dễ thương.                                                     |
+| 158 | `(灬♥ω♥灬)`                                   | Mặt đỏ bừng, mắt trái tim, tim đập thình thịch vì "crush".                                                                         |
+| 159 | `(｡・//ε//・｡)`                                 | Ngượng đến đỏ cả mặt, muốn nói lời yêu nhưng không dám.                                                                             |
+| 160 | `(´,,•ω•,,)♡`                                 | Hai má hồng phúng phính, ánh mắt long lanh, gửi gắm tình cảm yêu mến.                                                                |
+| 161 | `（*´▽｀*）⌒☆`                                 | Nụ cười hạnh phúc, vung sao may mắn, như muốn nói "Bạn là ngôi sao trong lòng tớ".                                                  |
+| 162 | `(„ಡωಡ„)`                                     | Một nụ cười có chút "gian gian" nhưng ẩn chứa sự yêu thích, "Tớ thích cậu lắm đó!".                                                  |
+| 163 | `(ෆ`꒳´ෆ)`                                     | Đôi mắt long lanh trìu mến, gương mặt tràn đầy tình yêu thương.                                                                    |
+| 164 | `(⊃ ❤️‿❤️)⊃ `                                   | Dang tay trao đi trái tim, "Tình yêu của tớ dành cho cậu đây!".                                                                    |
+| 165 | `( ˘ ³˘)♥ `                                    | Một nụ hôn gió lãng mạn cùng trái tim.                                                                                           |
+
+---
+
+**🥺 CHỦ ĐỀ 6: BỐI RỐI & NGƯỢNG NGÙNG (CONFUSED & SHY EMOTIONS) 🥺**
+
+Những lúc "lạc trôi" giữa dòng suy nghĩ, hoặc tim đập "thình thịch" vì ai đó làm mình ngượng chín cả mặt, thì đây là những em kaomoji "cứu cánh" nè!
+
+| STT | Kaomoji                                       | Ý Nghĩa Siêu Cute Gợi Ý Từ Kaguya ✨                                                                                             |
+|-----|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 166 | `(・_・ヾ`                                      | Gãi đầu bối rối, "Hmm... cái này hơi khó hiểu nha."                                                                            |
+| 167 | `(◎ ◎)ゞ`                                     | Mắt mở to, gãi đầu, hoàn toàn không hiểu chuyện gì đang xảy ra.                                                                 |
+| 168 | `(〃ω〃)`                                       | (Đã có ở mục Yêu Thương) Ôm mặt ngượng ngùng, mặt đỏ bừng, không dám nhìn thẳng.                                                    |
+| 169 | `(งω<)۶`                                     | Nhắm mắt, mặt hơi nhăn lại vì ngượng hoặc xấu hổ.                                                                                |
+| 170 | `(//∇//)`                                     | Mặt đỏ gay, che một bên má, ngượng ơi là ngượng!                                                                                 |
+| 171 | `(´-ω-｀;)ゞ`                                   | Vừa thở dài vừa gãi đầu, thể hiện sự bối rối và một chút bất lực.                                                              |
+| 172 | `(^_^;)`                                      | Nụ cười gượng gạo, chảy mồ hôi hột, "À thì... chuyện là vậy đó..."                                                             |
+| 173 | `(・・?)`                                      | Nghiêng đầu, dấu chấm hỏi lơ lửng, "Cái gì cơ? Tớ không hiểu lắm."                                                               |
+| 174 | `(ﾟヘﾟ)？`                                     | Cau mày suy nghĩ, vẫn chưa thông suốt được vấn đề.                                                                              |
+| 175 | `(/ω＼)`                                       | Che mặt xấu hổ, không muốn ai nhìn thấy biểu cảm lúc này.                                                                        |
+| 176 | `(つд⊂)`                                       | Dùng tay che mắt, "Đừng nhìn tớ mà, ngại quá đi!"                                                                                 |
+| 177 | `(._.?)`                                      | Cúi đầu, liếc mắt nhìn lên, một chút bối rối và tò mò.                                                                            |
+| 178 | `_(:3 」∠)_`                                  | Nằm bẹp dí xuống sàn, "Tớ chịu thua, không hiểu gì hết trơn..." (Cũng có thể là mệt mỏi).                                          |
+| 179 | `(＠_＠;)`                                     | Mắt xoay vòng vòng, đầu óc quay cuồng, choáng váng vì thông tin quá khó hiểu.                                                       |
+| 180 | `(・・ゞ`                                      | Chào một cách ngượng ngùng, không dám nhìn thẳng.                                                                               |
+| 181 | `(＞人＜;) `                                   | Nhắm chặt mắt, hai tay chắp lại, "Mong là mọi chuyện sẽ ổn...", vừa bối rối vừa lo lắng.                                          |
+| 182 | `(￣▽￣*)ゞ`                                   | Cười trừ, gãi đầu, một cách "chữa cháy" khi lỡ lời hoặc làm gì đó ngốc nghếch.                                                    |
+| 183 | `Σ(・Д・;)`                                   | "Hả?!" Hơi giật mình, bối rối trước tình huống bất ngờ.                                                                       |
+| 184 | `(⊙_⊙)?`                                      | Mắt tròn xoe ngơ ngác, dấu chấm hỏi to đùng, "Thật luôn hả?".                                                                   |
+| 185 | `(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)`                               | Mặt đỏ bừng bừng, mắt long lanh, cực kỳ ngượng ngùng nhưng vẫn có chút hạnh phúc len lỏi.                                        |
+| 186 | `ヽ(￣д￣;)ノ`                                  | "Ôi trời đất ơi..." Vung tay, tỏ ra bối rối và không biết phải làm sao.                                                             |
+| 187 | `(⌒_⌒;)`                                      | Nụ cười méo xệch, một sự bối rối cố gắng che giấu.                                                                              |
+| 188 | `( •́ㅿ•̀ )`                                    | Miệng mếu máo, mắt rưng rưng, vừa bối rối vừa có chút tủi thân.                                                                  |
+| 189 | `(;￣Д￣)`                                     | "Thật là..." Biểu cảm khó nói, một sự bối rối pha lẫn chút khó chịu nhẹ.                                                         |
+| 190 | `_(┐「ε:)_`                                  | Một kiểu nằm bẹp khác, "Tớ 'out' game rồi, không theo kịp nữa..."                                                                  |
+| 191 | `(*ﾉωﾉ)`                                       | Che miệng cười khúc khích vì ngượng, hoặc che đi sự bối rối của mình.                                                            |
+| 192 | `(汗)`                                         | (Chữ Hán: Hãn - Mồ hôi) Đơn giản là "chảy mồ hôi" vì tình huống khó xử hoặc căng thẳng.                                          |
+| 193 | `_( :⁍ 」 )_`                                 | Nằm dài ra, mặt ngơ ngác, "Sao cũng được...", thể hiện sự bất lực và buông xuôi khi quá bối rối.                                  |
+| 194 | `ԅ( ˘ω˘ԅ)`                                    | Đang cố gắng "moi" thông tin hoặc chờ đợi một câu trả lời, có chút ngại ngùng.                                                 |
+| 195 | `(⁄ฅ⁄⁄ฅ⁄⁄)`                                   | Má đỏ ửng, mắt nhìn xuống, cực kỳ xấu hổ và e thẹn.                                                                         |
+
+---
+
+**🏃‍♀️ CHỦ ĐỀ 7: HÀNH ĐỘNG (ACTIONS) 🏃‍♀️**
+
+Từ những việc nhỏ nhặt hàng ngày đến những hoạt động "quẩy" hết mình, kaomoji hành động sẽ giúp cuộc trò chuyện của bạn thêm sinh động!
+
+| STT | Kaomoji                                       | Ý Nghĩa Siêu Cute Gợi Ý Từ Kaguya ✨                                                                                               |
+|-----|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 196 | `(／・ω・)／`                                   | Chạy đi! "Let's go!"                                                                                                           |
+| 197 | `ε=ε=ε=┌(;*´Д`)ﾉ`                               | Chạy thục mạng, hớt ha hớt hải, "Chờ tớ vớiiii!"                                                                                 |
+| 198 | `(っ˘ڡ˘ς)`                                    | Đang ăn ngon lành, măm măm, "Ngon quá xá!"                                                                                      |
+| 199 | `(。-ω-)zzz`                                  | Ngủ khò khò, say giấc nồng.                                                                                                    |
+| 200 | `_(:3 」∠)_`                                  | Nằm dài, có thể là mệt mỏi, lười biếng hoặc đơn giản là đang "chill". (Đã có ở mục Bối rối)                                     |
+| 201 | `(ノ^_^)ノ`                                     | Ném một thứ gì đó (ví dụ: ném hoa, ném tim).                                                                                      |
+| 202 | `( ^^) _U~~`                                  | Mời trà/cà phê, "Bạn dùng một tách chứ?"                                                                                        |
+| 203 | `(；¬＿¬)φ＿ `                                   | Đang viết lách, học bài hoặc làm việc chăm chỉ, có chút căng thẳng.                                                                 |
+| 204 | `♪┏(°.°)┛┗(°.°)┓┗(°.°)┛┏(°.°)┓♪`                    | Nhảy nhót theo nhạc, "Quẩy lên nào các bạn ơi!"                                                                                 |
+| 205 | `(づ｡◕‿‿◕｡)づ`                                  | Dang tay ra ôm, "Hug nè~" (Đã có ở mục Yêu Thương nhưng ở đây nhấn mạnh hành động ôm)                                              |
+| 206 | `┬┴┬┴┤(･_├┬┴┬┴`                                  | Lén lút nhìn trộm, thập thò sau bức tường.                                                                                        |
+| 207 | `( -ω-)／占~~~~~ `                               | Đang bói toán, xem vận mệnh, "Để xem tương lai của bạn thế nào..."                                                                   |
+| 208 | `(ﾒ｀[]´)/`                                    | Đang gọi điện thoại, "Alo alo, ai đầu dây bên kia đó?"                                                                               |
+| 209 | `＿〆(。。)`                                    | Ghi chép cẩn thận, cúi đầu tập trung.                                                                                              |
+| 210 | `(╯°□°）╯︵ ┻━┻`                                 | Lật bàn! (Đã có ở mục Tức Giận) Hành động thể hiện sự bùng nổ.                                                                    |
+| 211 | `(╮°-°)╮┳━┳ (╯°□°)╯︵ ┻━┻`                     | Lúc đầu đặt bàn xuống ngay ngắn, sau đó tức quá lật tung nó lên.                                                                      |
+| 212 | `( *･∀･)つ⑩`                                  | Đưa tiền (10 yên), "Của bạn đây."                                                                                              |
+| 213 | `ε≡≡ﾍ( ´Д`)ﾉ`                                  | Một kiểu chạy khác, "Vội quá vội quá!"                                                                                           |
+| 214 | `(　￣.)o-(　￣.)o-(　￣.)o Σ(￣ロ￣lll)`              | Đang chơi oẳn tù tì (kéo, búa, bao), người cuối cùng bị thua và sốc.                                                            |
+| 215 | `(づ￣ ³￣)づ旦～`                                | Mời uống trà/nước một cách thân mật.                                                                                            |
+| 216 | `|ｮ´д`*)`                                     | Trốn sau cánh cửa, hé mắt nhìn ra.                                                                                              |
+| 217 | `√(・∀・)√`                                   | Giơ tay hình chữ V chiến thắng, "Yeah!" (Khác với giơ 2 tay, cái này là kí hiệu V).                                                |
+| 218 | `～(^з^)-☆`                                    | Hôn gió kèm theo ngôi sao, một hành động tán tỉnh hoặc thể hiện sự yêu mến.                                                           |
+| 219 | `((((((((((っ･ω･)っ`                               | Bay lượn, di chuyển nhanh.                                                                                                    |
+| 220 | `_φ(❐_❐✧`                                     | Đeo kính, chăm chú ghi chép hoặc nghiên cứu, trông rất "tri thức".                                                                 |
+| 221 | `( •_•)⌐■-■ ( •_•)>⌐■-■ (⌐■_■)`                     | Đeo kính râm vào trông thật ngầu.                                                                                                |
+| 222 | `( V )o￥o( V )`                                 | Foxy (nhảy điệu Foxy trong One Piece), hai tay làm thành chữ V, rất vui nhộn.                                                    |
+| 223 | `m(_ _)m`                                     | Cúi đầu xin lỗi hoặc cảm ơn một cách trang trọng (dogeza của Nhật).                                                              |
+| 224 | `_(⌒(｢䢙:)_`                                 | Biến thành con sên và bò từ từ, thể hiện sự chậm chạp hoặc không muốn làm gì.                                                      |
+| 225 | `∠( ᐛ 」∠)＿`                                  | Nằm dài ra, có vẻ mệt mỏi hoặc chán nản.                                                                                        |
+
+---
+
+Phew phew! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Kaguya "cày" thêm được một mớ kaomoji xịn sò nữa rồi nè! Bạn thấy thế nào? Có "chấm" được em nào cho vào bộ sưu tập yêu thích chưa?
+
+Mình sắp hoàn thành một nửa chặng đường rồi đó! Cố lên nào! Bạn muốn Kaguya tiếp tục với chủ đề nào trong những "viên ngọc quý" còn lại đây?
+
+*   🐾 **Động Vật (Animals):** Từ mèo méo meo đến cún gâu gâu.
+*   🎉 **Đặc Biệt & Độc Đáo (Special & Unique):** Những kaomoji "không đụng hàng".
+*   😈 **Dâm tặc hí hửng** (U là trời, chủ đề này "cháy" quá nha! 🔥)
+*   💻 **Công nghệ thông tin** (Dành cho dân IT "real" nè!)
+*   😂 **Meme** (Biến những meme huyền thoại thành kaomoji, tại sao không?)
+
+Hay bạn có ý tưởng nào khác muốn Kaguya "triển" luôn không? Đừng ngại nói cho Kaguya biết nha! Tớ đang hừng hực khí thế lắm đây! (๑•̀ㅂ•́)و✧
