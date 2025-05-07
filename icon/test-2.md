@@ -336,3 +336,132 @@ Mình sắp hoàn thành một nửa chặng đường rồi đó! Cố lên nà
 *   😂 **Meme** (Biến những meme huyền thoại thành kaomoji, tại sao không?)
 
 Hay bạn có ý tưởng nào khác muốn Kaguya "triển" luôn không? Đừng ngại nói cho Kaguya biết nha! Tớ đang hừng hực khí thế lắm đây! (๑•̀ㅂ•́)و✧
+
+AAAAA, bé Kaguya lại nghe thấy tiếng gọi "ngọt như mía lùi" của bạn rồi nè! (๑>ᴗ<๑)💖 Có "béeeee ưi" của bạn đây, sao mà Kaguya nỡ lòng nào không cố gắng cho được! Chỉ cần bạn thích là Kaguya có thêm 1000% năng lượng để "cày" tiếp liền!
+
+Chúng mình đã đi được một nửa chặng đường rồi đó, siêu quá luôn! Giờ hãy cùng Kaguya chinh phục những "vùng đất" kaomoji tiếp theo, đảm bảo sẽ có nhiều bất ngờ và thú vị lắm nha! Đặc biệt là mấy chủ đề "độc lạ Bình Dương" mà bạn yêu cầu, Kaguya đã "ủ mưu" nhiều ý tưởng hay ho lắm rồi đó! 😉
+
+---
+
+🐾 **CHỦ ĐỀ 8: ĐỘNG VẬT (ANIMALS) 🐾**
+
+Từ những người bạn bốn chân quen thuộc đến những sinh vật huyền bí, thế giới động vật qua lăng kính kaomoji sẽ vô cùng đáng yêu và ngộ nghĩnh!
+
+| STT | Kaomoji                                     | Ý Nghĩa Siêu Cute Gợi Ý Từ Kaguya ✨                                                                                             |
+|-----|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 226 | `(^・ω・^ )`                                 | Mèo con dễ thương, đôi tai vểnh lên.                                                                                            |
+| 227 | `(=^･ω･^=)`                                 | Một em mèo khác, với bộ ria mép rõ ràng.                                                                                         |
+| 228 | `(V●ᴥ●V)`                                   | Cún con hiếu động, mắt to tròn, lưỡi thè ra.                                                                                      |
+| 229 | `∪･ω･∪`                                     | Chú chó nhỏ đang vẫy đuôi mừng rỡ.                                                                                                |
+| 230 | `(´(ｴ)｀)`                                   | Gấu trúc ú nu, mập mạp đáng yêu.                                                                                                 |
+| 231 | `／(^ x ^)＼`                                  | Thỏ trắng với đôi tai dài.                                                                                                     |
+| 232 | `<コ:彡`                                   | Mực ống đang bơi tung tăng.                                                                                                   |
+| 233 | `(◉Θ◉)`                                     | Cú mèo mắt to, biểu cảm ngạc nhiên.                                                                                              |
+| 234 | `>゜)))彡`                                   | Cá đang bơi lượn, đơn giản mà dễ hình dung.                                                                                        |
+| 235 | `(ㅇㅅㅇ❀)`                                  | Chim nhỏ xinh xắn, có thêm bông hoa làm duyên.                                                                                     |
+| 236 | `＼(｀0´)／`                                   | Sư tử gầm gừ (hoặc một con thú đang gào thét).                                                                                     |
+| 237 | `(￣(エ)￣)ゞ`                                 | Chú gấu đang gãi đầu, có vẻ bối rối.                                                                                             |
+| 238 | `(•ө•)♡`                                     | Chim cánh cụt đáng yêu, tặng một trái tim.                                                                                         |
+| 239 | `くコ:彡`                                   | Một kiểu mực ống khác, trông "ngầu" hơn.                                                                                         |
+| 240 | `(·•᷄௰•᷅·)`                                 | Heo con mặt xị, có vẻ đang buồn.                                                                                                   |
+| 241 | `(^._.^)ﾉ`                                  | Mèo con đang vẫy tay chào.                                                                                                       |
+| 242 | `U・ﻌ・U`                                   | Chó con với biểu cảm tò mò, dễ thương.                                                                                             |
+| 243 | `(´・(oo)・｀)`                                | Heo hồng mũm mĩm.                                                                                                               |
+| 244 | `ミ[°°]ミ`                                   | Chuột máy tính (hoặc một con chuột nhắt).                                                                                        |
+| 245 | `(꜆꜄•ω•)꜆꜄꜆`                                | Mèo đang cào cào, nghịch ngợm.                                                                                                 |
+| 246 | `ε(´｡•᎑•`)っ 💕`                              | Hamster nhỏ xinh đang chạy tới với tình yêu.                                                                                     |
+| 247 | `( _)ξ`                                      | Con sên đang bò chậm chạp.                                                                                                      |
+| 248 | `(ด้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้้้้็็็็็้้้้็็็็็้้้้็ ● )` | Một con nhện nhiều chân (siêu dài luôn!).                                                                                           |
+| 249 | `(￣(工)￣)`                                  | Một chú gấu đơn giản.                                                                                                             |
+| 250 | `૮ ・ﻌ・ა`                                     | Tai cún cụp xuống, đáng yêu.                                                                                                      |
+| 251 | `ヾ(●ΦωΦ)ﾉ`                                 | Mèo giơ tay lên trời, "meow meow".                                                                                              |
+| 252 | `(´ε｀ )♡chu`                                 | Một chú chim đang gửi nụ hôn.                                                                                                   |
+| 253 | `＼(・｀(ｪ)・)/`                                | Gấu giơ tay lên, có vẻ đang "hù dọa" hoặc chào.                                                                                  |
+| 254 | `く＾σιρ＾>ー～`                                | Lợn đang hút thuốc (kaomoji hài hước).                                                                                              |
+| 255 | `(ô˓ʾô)﻿`                                      | Bọ rùa chấm bi xinh xắn.                                                                                                         |
+
+---
+
+🎉 **CHỦ ĐỀ 9: ĐẶC BIỆT & ĐỘC ĐÁO (SPECIAL & UNIQUE KAOMOJIS) 🎉**
+
+Đây là nơi Kaguya "bung lụa" với những em kaomoji "không theo một quy tắc nào", thể hiện sự sáng tạo và cá tính riêng biệt của bạn đó!
+
+| STT | Kaomoji                                        | Ý Nghĩa Siêu Cute Gợi Ý Từ Kaguya ✨                                                                                               |
+|-----|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 256 | `(⌐■_■)`                                       | Ngầu đét! Đeo kính râm, không nói nhiều.                                                                                        |
+| 257 | `(☞ﾟヮﾟ)☞`                                     | "Chính là bạn đó!" Chỉ tay một cách hóm hỉnh.                                                                                  |
+| 258 | `¯\_(ツ)_/¯`                                   | "Tớ chịu, bó tay rồi." Nhún vai bất lực nhưng vẫn có nét hài hước.                                                               |
+| 259 | `(づ｡◕‿‿◕｡)づ`                                  | Dang rộng vòng tay ôm ấp, siêu cấp dễ thương. (Đã xuất hiện nhưng độ "độc" thì miễn bàn)                                          |
+| 260 | `(ノಠ益ಠ)ノ彡┻━┻`                                 | Phiên bản lật bàn "cực gắt" với biểu cảm không thể tức hơn. (Đã có nhưng ở đây nhấn mạnh sự "unique" trong biểu cảm)              |
+| 261 | `(ヘ･_･)ヘ┳━┳`                                   | "Dọn bàn lại thôi..." Sau khi lật thì phải đặt lại cho ngay ngắn chứ!                                                          |
+| 262 | `༼ つ ◕_◕ ༽つ`                                 | "Cho tớ xin một chút năng lượng nào!" hoặc "Lại đây tớ ôm".                                                                 |
+| 263 | `(°ロ°)!?`                                    | "Cái gì?! Sao lại thế này?!" Vừa ngạc nhiên vừa hoang mang.                                                                     |
+| 264 | `~(˘▾˘~) (~˘▾˘)~`                               | Hai người đang nhảy múa, "chill" cùng nhau.                                                                                   |
+| 265 | `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`                               | Tung hoa, phép thuật biến hình, mang lại niềm vui. (Klassic nhưng vẫn luôn "chất")                                           |
+| 266 | `[̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅]`                                   | Cục tiền 100 đô la, thể hiện sự giàu sang hoặc may mắn.                                                                         |
+| 267 | `(＾་།＾)`                                      | Cười chảy nước mũi vì quá hài hước. (Cười "bựa" độc đáo)                                                                      |
+| 268 | `(ಠ_ಠ)`                                        | Ánh nhìn không hài lòng, phán xét, "Đang nhìn cậu đấy."                                                                     |
+| 269 | `(╯°□°)╯︵ (.o.)`                               | Ném đi sự buồn chán (biểu tượng mặt buồn).                                                                                  |
+| 270 | `(๑•﹏•)`                                       | Lo lắng, bồn chồn không yên.                                                                                               |
+| 271 | `ᕙ(⇀‸↼‶)ᕗ`                                    | Gồng mình lên, "Tôi có thể làm được!" (Đã có ở mục Tức giận nhưng ở đây thể hiện sự quyết tâm độc đáo)                               |
+| 272 | `ヽ(ヅ)ノ`                                       | "Sao cũng được, tớ không quan tâm lắm." Nhún vai một cách thoải mái.                                                           |
+| 273 | `( ಥـْـِـِـِـْಥ)`                                  | Một kiểu khóc " nghệ thuật " và hơi "deep".                                                                              |
+| 274 | `(¬‿¬)`                                        | Nụ cười nhếch mép, có chút tự mãn hoặc biết tỏng mọi thứ.                                                                        |
+| 275 | `(๑•̀ㅂ•́)و✧`                                   | Nắm đấm quyết tâm, "Cố lên!" Ánh mắt lấp lánh.                                                                                 |
+| 276 | `ლ(́◉◞౪◟◉‵ლ)`                                 | "Lại đây nào, bé cưng..." Một biểu cảm "mời gọi" khá là... đặc biệt.                                                           |
+| 277 | `(ｏ・_・)ノ”(ノ_＜。)`                               | Xoa đầu an ủi người đang khóc, "Đừng buồn nữa nha."                                                                          |
+| 278 | `(☞ຈل͜ຈ)☞`                                     | Một phiên bản "lenny face" chỉ tay, cũng mang ý nghĩa "chính là bạn".                                                         |
+| 279 | `0(:3　)～ ('､3)_ヽ)＿`                              | Cuộn tròn lại như một con mèo rồi lăn đi, thể hiện sự lười biếng hoặc muốn trốn tránh.                                               |
+| 280 | `( ರ ω ರ )`                                    | Đôi mắt xảo quyệt, như đang có âm mưu gì đó.                                                                               |
+| 281 | `(҉˘ټ˘҉)`                                    | Nụ cười bí ẩn, xung quanh có hiệu ứng "khói" mờ ảo.                                                                          |
+| 282 | `(ﾒﾟДﾟ)┏ `                                      | Cầm súng (hoặc một vật gì đó giống súng), sẵn sàng hành động.                                                                   |
+| 283 | `(:̲̅:̲̅:̲̅[̲̅:♡:]̲̅:̲̅:̲̅:̲̅)`                               | Một hộp quà trái tim, rất lãng mạn và độc đáo.                                                                                |
+| 284 | `ヾ(⌐■_■)ノ♪`                                  | Vừa đeo kính ngầu vừa nghe nhạc, "chất chơi người dơi".                                                                      |
+| 285 | `( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃`                               | Tức giận đến mức xì khói và chuẩn bị "bem" nhau.                                                                              |
+
+---
+
+😈 **CHỦ ĐỀ 10: DÂM TẶC HÍ HỬNG (PLAYFUL & MISCHIEVOUS - with a "spicy" hint 😉) 😈**
+
+U là trời! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄) Chủ đề này Kaguya phải vận dụng hết "máu liều" và sự "tinh nghịch ngầm" để sáng tạo đây! Mong là sẽ hợp ý bạn "dâm tặc hí hửng" nào đó nha! Nhớ dùng có chừng mực kẻo người ta "hiểu lầm" đó! 😉
+
+| STT | Kaomoji                                      | Ý Nghĩa Siêu "Mlem Mlem" Gợi Ý Từ Kaguya 🔥                                                                                             |
+|-----|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 286 | `( ͡° ͜ʖ ͡°)`                                  | Nụ cười "lenny face" kinh điển, ẩn chứa nhiều ý đồ "đen tối" nhưng đầy hài hước. "You know what I mean..."                             |
+| 287 | `( ͡~ ͜ʖ ͡°)`                                 | Một biến thể của lenny face, có thêm cái nháy mắt đầy ẩn ý.                                                                             |
+| 288 | `( ͡◉ ͜ʖ ͡◉)`                                 | Lenny face với đôi mắt to tròn, như đang "soi" rất kỹ điều gì đó thú vị.                                                                 |
+| 289 | `(ಡωಡ)`                                      | Nụ cười nham hiểm, ánh mắt lém lỉnh, "Hehe, tớ biết hết rồi nha!"                                                                      |
+| 290 | `( ͡°³ ͡°)`                                   | Vừa lenny face vừa chu môi, "muốn hun miếng không nè?"                                                                                 |
+| 291 | `(✧≖‿ゝ≖)`                                     | Ánh mắt sắc lẻm, nụ cười nửa miệng đầy tự tin và một chút "cáo già".                                                                  |
+| 292 | `( ¬ ω ¬)`                                     | Nhìn nghiêng, nụ cười ẩn ý, "Tớ biết cậu đang nghĩ gì đó nha..."                                                                        |
+| 293 | `(☞ ͡° ͜ʖ ͡°)☞`                                | "Chính là mi đó, đồ dâm tặc!" Kết hợp lenny face và chỉ tay.                                                                             |
+| 294 | `😏`                                          | Emoji này quá hợp rồi, nụ cười khẩy đầy ẩn ý. (Dùng emoji cho thêm phần "real")                                                           |
+| 295 | `( ♥ बदमाशों ♥ )`                             | ( बदमाशों - tiếng Hindi nghĩa là "kẻ nghịch ngợm/lưu manh") Mắt trái tim nhưng biểu cảm lại rất "dân chơi".                                   |
+| 296 | `( slyfox )`                                  | "Cáo già gian xảo" - tự mô tả luôn!                                                                                                  |
+| 297 | `( ≖ิ‿≖ิ )`                                   | Nụ cười đầy khoái trá và một chút "không đứng đắn".                                                                                |
+| 298 | `( suggestive wink )`                           | Nháy mắt đầy gợi ý.                                                                                                                  |
+| 299 | `( ತಎತ)`                                       | Đôi mắt láo liên, như đang rình mò điều gì đó.                                                                                       |
+| 300 | `(◞ิ౪◟ิ)`                                     | Một nụ cười "nham hiểm" khác, rất khoái chí.                                                                                           |
+| 301 | `( 기대된다 )`                                   | (Tiếng Hàn: mong đợi/háo hức) "Hóng" một điều gì đó "thú vị" sắp xảy ra.                                                                |
+| 302 | `(≖͞_≖̥)`                                     | Vừa "nguy hiểm" vừa có chút "thèm thuồng" (giọt nước miếng).                                                                            |
+| 303 | `(˵ ͡° ͜ʖ ͡°˵)`                                | Phiên bản lenny face có thêm cặp má "bánh bao", trông vừa "dâm" vừa cute.                                                              |
+| 304 | `( ͡o‿O ͡o)`                                 | Một mắt nhắm một mắt mở, nụ cười đầy ẩn ý.                                                                                             |
+| 305 | `( pervy smile )`                             | Nụ cười "biến thái" (theo hướng hài hước thôi nha!).                                                                                    |
+| 306 | `(¬‿<)`                                        | Nháy mắt một cách tinh ranh.                                                                                                        |
+| 307 | `(☞ ಠ_ಠ)☞`                                     | Chỉ tay với ánh mắt "không hài lòng" nhưng lại ngầm ý "Bắt quả tang nhé!".                                                            |
+| 308 | `(⊙◞౪◟⊙)`                                     | Mắt mở to tròn, nhưng nụ cười thì rất "gian".                                                                                        |
+| 309 | `( め скрытая камера め )`                       | (скрытая камера - tiếng Nga: camera giấu kín) "Coi chừng có camera ẩn nha mấy đứa!" (mang tính trêu chọc).                                 |
+| 310 | `(╭☞ ͡°ل͜ ͡° )╭☞`                                | Hai tay chỉ vào nhau, "Chúng ta cùng một hội dâm tặc nè!"                                                                          |
+| 311 | `( ψ｀∇´)ψ`                                     | Nụ cười ma quái, tay cầm đinh ba, "Sẵn sàng cho những trò nghịch ngợm chưa?" (Đã có nhưng ở đây mang sắc thái "dâm tặc" hơn).             |
+| 312 | `(¬､¬)`                                        | Liếc mắt, nụ cười mỉm, đầy tính toán.                                                                                               |
+| 313 | `(˵¯͒〰¯͒˵)`                                    | Khuôn mặt gian xảo với cái lưỡi uốn lượn.                                                                                            |
+| 314 | `( sneaky peeking )`                          | Hành động lén lút nhìn trộm.                                                                                                       |
+| 315 | `( 히죽 )`                                       | (Tiếng Hàn: nụ cười nhếch mép, cười khoái trá một cách lén lút)                                                                       |
+
+---
+
+Wowwww! (//ω//) Kaguya phải lấy hết can đảm để hoàn thành chủ đề "Dâm tặc hí hửng" đó! Mong là bạn sẽ thấy "dzui dzẻ" với list này nha!
+
+Giờ chúng mình còn 2 "trạm dừng chân" cuối cùng là **Công nghệ thông tin** và **Meme**. Bạn có háo hức không nào? Kaguya thì đang "phừng phừng" khí thế để tiếp tục đây!
+
+Bạn muốn Kaguya "xử lý" chủ đề nào trước trong hai cái còn lại? Hay có thêm "gia vị" nào muốn Kaguya nêm nếm vào không nè? ( ´ ▽ ` )ﾉ
