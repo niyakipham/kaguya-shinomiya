@@ -465,3 +465,121 @@ Wowwww! (//ω//) Kaguya phải lấy hết can đảm để hoàn thành chủ �
 Giờ chúng mình còn 2 "trạm dừng chân" cuối cùng là **Công nghệ thông tin** và **Meme**. Bạn có háo hức không nào? Kaguya thì đang "phừng phừng" khí thế để tiếp tục đây!
 
 Bạn muốn Kaguya "xử lý" chủ đề nào trước trong hai cái còn lại? Hay có thêm "gia vị" nào muốn Kaguya nêm nếm vào không nè? ( ´ ▽ ` )ﾉ
+
+AAAAA, "bé Kaguya uiwiiiii" đây, nghe bạn khen "cố gắng rùi" mà lòng Kaguya ấm áp xỉu luôn á! (●♡∀♡) Cảm ơn bạn đã tiếp thêm động lực siêu to khổng lồ cho Kaguya nha! Chỉ cần bạn còn "thả tim" là Kaguya sẽ chiến đấu tới kaomoji cuối cùng luôn! 💪💖
+
+Đúng rồi nè, chúng mình còn hai "ải" cuối cùng đầy thử thách nhưng cũng siêu thú vị: **Công nghệ thông tin** và **Meme**! Kaguya đã "lên đồ" sẵn sàng để biến những khái niệm có vẻ "khô khan" hay những trào lưu "hot hit" thành những kaomoji "chất phát ngất" rồi đây!
+
+Không để bạn chờ lâu, mình "triển" luôn chủ đề tiếp theo nha! 🚀
+
+---
+
+💻 **CHỦ ĐỀ 11: CÔNG NGHỆ THÔNG TIN (INFORMATION TECHNOLOGY) 💻**
+
+Dành cho các "chiến binh IT", những "pháp sư code" và tất cả những ai yêu thích thế giới số! Biến những dòng lệnh, thuật toán thành kaomoji, tại sao không? 😉
+
+| STT | Kaomoji                                          | Ý Nghĩa Siêu "Techy" Gợi Ý Từ Kaguya ✨                                                                                              |
+|-----|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 316 | `[▓▓]`                                           | Thanh loading, "Đang xử lý, xin chờ..."                                                                                               |
+| 317 | `LOADING... █▒▒▒▒▒▒▒▒▒`                             | Thanh loading chi tiết hơn, thể hiện quá trình đang diễn ra.                                                                             |
+| 318 | `01101000 01101001`                              | Mã nhị phân (binary code) của từ "hi". Hello dân IT! 😉                                                                                  |
+| 319 | `<(`O`)>`                                         | Robot con đáng yêu, "beep boop".                                                                                                       |
+| 320 | `</>`                                            | Thẻ đóng trong HTML, "Kết thúc một tác vụ" hoặc đơn giản là "Done!".                                                                     |
+| 321 | `(╮°-°)╮┳━┳ (╯°□°)╯︵ ┻━┻`                          | (Đã có) IT fix bug: Lúc đầu cố gắng sửa nhẹ nhàng (đặt bàn), không được thì "đập máy" (lật bàn). # relatable                       |
+| 322 | `(_̅_̅_̅_̅(̅_̅_̅_̅_̅_̅_̅_̅_̅̅_̅()ڪے~`                            | USB đang cắm vào, "Transfer data thôi nào!" (hình cái USB và làn khói)                                                                |
+| 323 | `{\_($)\_}`                                        | Tượng trưng cho "open source" hoặc một cái gì đó miễn phí.                                                                               |
+| 324 | `(⌐□_□)ノ⌒●~*`                                    | Hacker ngầu lòi đang "thả virus" (một cách hài hước thôi nha!).                                                                           |
+| 325 | `Error 404: Kaomoji Not Found`                   | "Lỗi rồi!" Khi không tìm thấy thứ gì đó, hoặc muốn trêu đùa.                                                                             |
+| 326 | `C:drive full`                                 | Ổ C bị đầy, một nỗi ám ảnh của dân IT.                                                                                                   |
+| 327 | `while(true){KAWAII}`                             | Vòng lặp vô tận của sự đáng yêu! 😉                                                                                                       |
+| 328 | `( Ctrl+C ) ( Ctrl+V )`                          | Copy và Paste, "người bạn thân" của coder.                                                                                             |
+| 329 | `╔══════╗ ♪`                                    | Loa đang phát nhạc, "Nghe nhạc chill trong lúc code".                                                                                     |
+|     | `║██████║ ♫`                                    |                                                                                                                                      |
+|     | `║ (●)    ║`                                    |                                                                                                                                      |
+|     | `╚══════╝`                                    |                                                                                                                                      |
+| 330 | `rm -rf /`                                       | Lệnh nguy hiểm trong Linux, "Đừng dại dột thử nhé!" (Mang tính cảnh báo hài hước).                                                        |
+| 331 | `sudo !!`                                        | "Lấy quyền admin làm lại lệnh vừa rồi!" – Câu thần chú khi gặp lỗi "permission denied".                                                      |
+| 332 | `DEBUGGING... (҂⌣̀_⌣́)`                             | Đang gỡ lỗi, mặt mày căng thẳng nhưng vẫn cố gắng.                                                                                      |
+| 333 | `</brain.exe has stopped working>`                | "Não ngừng hoạt động rồi!" Khi bị quá tải thông tin hoặc code cả đêm.                                                                     |
+| 334 | `ping ... (ノ°▽°)ノ ... pong!`                    | Kiểm tra kết nối mạng, "Connected!"                                                                                                    |
+| 335 | `(☞ﾟ∀ﾟ)☞ API Call!`                               | Gọi API thành công!                                                                                                                    |
+| 336 | `Database (ಠ_ಠ) connection failed!`              | Kết nối cơ sở dữ liệu thất bại, "Lại nữa hả?!"                                                                                         |
+| 337 | `git commit -m "Fixed the bug... I hope 🙏"`        | "Hy vọng đã sửa xong lỗi..." – Niềm tin của developer.                                                                                  |
+| 338 | `Stack Overflow (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ My savior!`           | "Stack Overflow là vị cứu tinh của đời tui!"                                                                                           |
+| 339 | `Hello World! (^o^)/`                             | Bài học vỡ lòng của mọi coder.                                                                                                        |
+| 340 | `It's not a bug, it's a feature (¬‿¬)`          | "Đó không phải lỗi, đó là tính năng!" – Câu nói bất hủ để "lấp liếm".                                                                     |
+| 341 | `COMPILING... ༼⁰o⁰；༽`                              | "Đang biên dịch..." Mặt hồi hộp chờ kết quả.                                                                                           |
+| 342 | `Cloud Server ☁️ヽ(爱´∀｀愛)ノ☁️`                       | Máy chủ đám mây, nơi chứa đựng tình yêu (dữ liệu).                                                                                      |
+| 343 | `AI learning 🤖✨ (๑•̀ㅂ•́)و✧`                         | Trí tuệ nhân tạo đang học hỏi và ngày càng thông minh hơn!                                                                                |
+| 344 | `((📡)) Signal lost!`                               | Mất tín hiệu rồi!                                                                                                                   |
+| 345 | `🖱️💨 Click click BOOM!`                           | Click chuột liên tục rồi... "nổ tung" (vì lag hoặc lỗi).                                                                                 |
+| 346 | `(´-ω-｀)💤 // Sleep mode activated`                 | Chuyển sang chế độ ngủ (cho cả người và máy).                                                                                            |
+| 347 | `try { code() } catch (Exception e) { (ノಥ,_｣ಥ)ノ彡┻━┻ }` | Cấu trúc "try-catch" kinh điển và phản ứng khi gặp exception.                                                                    |
+| 348 | `Wi-Fi: █████ (connected)`                        | Vạch Wi-Fi căng đét, "Kết nối ngon lành!"                                                                                              |
+| 349 | `setInterval( () => console.log("KAGUYA KAWAII!"), 1000)` | Chạy dòng code này mỗi giây để thấy Kaguya dễ thương! 😉                                                                        |
+| 350 | `Shutdown (-ω-ゞ`                                  | "Tắt máy thôi nào!"                                                                                                                  |
+
+---
+
+😂 **CHỦ ĐỀ 12: MEME (BRINGING MEMES TO KAOMOJI LIFE!) 😂**
+
+Đây là "sân khấu" để những meme huyền thoại được "tái sinh" dưới dạng kaomoji! Sẵn sàng cười "không nhặt được mồm" chưa nào? 😉
+
+| STT | Kaomoji                                           | Ý Nghĩa "Meme Lord" Gợi Ý Từ Kaguya ✨ (Kèm tên meme nếu có thể)                                                                      |
+|-----|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 351 | `(҂ `з´ ) "Why U No...?"`                          | (Meme: Y U NO Guy) Biểu cảm bực bội, "Tại sao mày không...?"                                                                            |
+| 352 | `Success! (•̀ᴗ•́)و ̑̑`                               | (Meme: Success Kid) Nắm tay thành công, ánh mắt quyết tâm.                                                                              |
+| 353 | `Not Bad ( Obama Not Bad Face )`                   | Gương mặt "Không tệ" của Obama, thể hiện sự công nhận. (Dùng chữ cho dễ hình dung)                                                        |
+| 354 | `ಠ_ಠ "I'm watching you..."`                          | (Meme: Look of Disapproval) Ánh mắt không hài lòng, phán xét.                                                                            |
+| 355 | `(╯°□°）╯︵ ┻━┻ "FLIP TABLE!"`                         | (Hành động này đã trở thành meme) Lật bàn vì quá tức giận.                                                                                 |
+| 356 | `One does not simply ( ￣^￣) walkers to Mordor.`   | (Meme: One Does Not Simply Walk into Mordor - Lord of the Rings) "Người ta không đơn giản là..." + mặt nghiêm túc của Boromir.            |
+| 357 | `This is fine. 🔥🐶🔥`                               | (Meme: This is Fine Dog) Chú chó ngồi giữa đám cháy và nói "Ổn mà." (Kaomoji khó diễn tả hết, cần emoji hỗ trợ)                       |
+| 358 | `(☞ﾟヮﾟ)☞ Ayo!`                                      | (Thường dùng trong các meme) "Hey yo!", "Chính là nó!".                                                                               |
+| 359 | `~(=^‥^)ノ Bye Felicia!`                             | (Meme: Bye Felicia) Chào tạm biệt một cách thờ ơ, không quan tâm. (Mèo vẫy tay)                                                         |
+| 360 | `All the things! ＼(≧▽≦)／ <( X )`                  | (Meme: X All The Y - Hyperbole and a Half) "Làm TẤT CẢ MỌI THỨ!" (Người cầm một thứ gì đó và hét lên).                                 |
+| 361 | `Grumpy Cat (Ф∀Ф)`                                 | (Meme: Grumpy Cat) Gương mặt cau có bất hủ của chú mèo Grumpy.                                                                            |
+| 362 | `Much wow! (V●ᴥ●V) Such amaze!`                      | (Meme: Doge) Chú chó Shiba với những câu cảm thán "Much X, Such Y, Very Z".                                                              |
+| 363 | `BRACE YOURSELVES (งಠ_ಠ)ง Memes are coming!`      | (Meme: Brace Yourselves, X is Coming - Game of Thrones) "Chuẩn bị đi, meme sắp tới rồi!".                                               |
+| 364 | `(つ ͡° ͜ʖ ͡°)つ Gib Kaomoji!`                       | (Biến tấu từ "Gib Clay") "Cho xin kaomoji đi!" với gương mặt lenny.                                                                   |
+| 365 | `¯\_(ツ)_/¯ Shrug`                                   | (Hành động nhún vai đã thành meme) "Tôi không biết/Sao cũng được."                                                                     |
+| 366 | `(-■_■) Deal with it.`                               | (Meme: Deal With It) Đeo kính râm ngầu lòi, "Chấp nhận đi."                                                                              |
+| 367 | `( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)`                       | (Meme:ception - Inception) Lenny face lồng trong lenny face, sự lặp lại vô tận.                                                         |
+| 368 | `( ╯°□°)╯┻━━┻ "Table Flip!"`                        | Phiên bản lật bàn khác.                                                                                                               |
+| 369 | `Press F to Pay Respects ( F )`                    | (Meme từ game Call of Duty) Nhấn F để bày tỏ sự tôn trọng/chia buồn.                                                                     |
+| 370 | ` Pepe the Frog (⊙︿⊙)`                            | (Meme: Pepe the Frog) Chú ếch Pepe với nhiều biểu cảm, đây là lúc buồn.                                                                    |
+| 371 | ` Wojak Feels Guy (╯︵╰,)`                          | (Meme: Wojak/Feels Guy) Gương mặt buồn bã, thất vọng.                                                                                    |
+| 372 | `(ᕗ✿ •̀_•́)ᕗ <( FIGHT ME!)`                          | (Meme: Challenge Accepted/Fight Me) "Thách đấu nè!" (Tay đeo găng hoa cho hài hước).                                                    |
+| 373 | `This is Sparta! (งPhilippe)ง -=≡Σ((( つ•̀ω•́)つ🦵`   | (Meme: This is Sparta - 300) "Đây là Sparta!" rồi đạp một cú. (Philippe là một kaomoji người que bị đá)                                |
+| 374 | `I Regret Nothing (¬‿¬)`                            | (Meme: I Regret Nothing) "Tôi không hối hận gì cả." với nụ cười tự mãn.                                                                  |
+| 375 | `Picard Facepalm (－‸ლ)`                           | (Meme: Captain Picard Facepalm - Star Trek) Hành động facepalm bất lực.                                                                    |
+| 376 | `Distracted Boyfriend  Boyfriend: (¬‿¬) Girlfriend: (눈_눈) Other Girl: (づ｡◕‿‿◕｡)づ` | (Meme: Distracted Boyfriend) Bạn trai liếc nhìn cô gái khác trong khi bạn gái nhìn anh ta.                                              |
+| 377 | `Expanding Brain ✨🧠✨ ∙ → ° → 🤩`                   | (Meme: Expanding Brain/Galaxy Brain) Não ngày càng "to" ra, thông minh hơn.                                                               |
+| 378 | `Drake Meme No: (҂ `з´ ) Yes: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`         | (Meme: Drake Hotline Bling) Drake không thích cái này, Drake thích cái kia.                                                               |
+| 379 | `SpongeBob Mocking ( สลับตัวอักษร )`                | (Meme: Mocking SpongeBob) "Nói cà khịa" bằng cách viết chữ hoa chữ thường xen kẽ. (Khó thể hiện bằng kaomoji, dùng chữ).               |
+| 380 | `Woman Yelling at Cat Cat: ( Ф ω Ф ) Woman: (╬ಠ益ಠ)` | (Meme: Woman Yelling at a Cat) Người phụ nữ la mắng con mèo đang ngồi ăn với vẻ mặt ngơ ngác.                                            |
+| 381 | `UNO Draw 25 (╬ Ò﹏Ó) <( CARD )`                    | (Meme: UNO Draw 25) Thà bốc 25 lá bài còn hơn làm điều gì đó.                                                                            |
+| 382 | `Is this a pigeon? (・_・ヾ? 🦋)`                       | (Meme: Is this a pigeon?) Nhìn con bướm mà hỏi "Đây là chim bồ câu hả?".                                                                 |
+| 383 | `Change My Mind (｀∀´)Ψ <( TABLE )`                 | (Meme: Steven Crowder's "Change My Mind") Ngồi ở bàn với biển "Hãy thay đổi suy nghĩ của tôi".                                             |
+| 384 | `My disappointment is immeasurable (╥﹏╥) and my day is ruined.` | (Meme: Reviewbrah) "Nỗi thất vọng của tôi là không thể đo đếm được và ngày của tôi đã bị hủy hoại."                                      |
+| 385 | `Ah shit, here we go again (⇀_⇀) <( CJ )`         | (Meme: GTA San Andreas) "Lại nữa rồi..." khi phải lặp lại điều gì đó không mong muốn.                                                    |
+| 386 | `STONKS 📈 (`･ω･´)ゞ`                                | (Meme: Stonks) Đầu tư thành công, lợi nhuận tăng vọt.                                                                                 |
+| 387 | `Karen (눈‸눈) "I want to speak to the manager!"`   | (Meme: Karen) "Tôi muốn nói chuyện với quản lý của bạn!" – Biểu tượng của những khách hàng khó tính.                                         |
+| 388 | `Surprised Pikachu (😮)`                              | (Meme: Surprised Pikachu) Pikachu ngạc nhiên. (Emoji dễ hình dung hơn).                                                                    |
+| 389 | `Hide the Pain Harold (forced smile)`               | (Meme: Hide the Pain Harold) Nụ cười gượng gạo che giấu nỗi đau. (Khó diễn tả, cần ghi chú).                                             |
+| 390 | `They're the same picture ( ̿– フ ̿ – ) <( Pam )`      | (Meme: The Office - Pam Beesly) "Chúng là cùng một bức ảnh mà."                                                                            |
+
+---
+
+HUÝCH HUÝCH! 🎺🥳 **CHÚNG MÌNH ĐÃ LÀM ĐƯỢC RỒI BẠN ƠIIIIIII!** 🎉🎉🎉
+
+Hai "ải" cuối cùng cũng đã được chinh phục một cách "ngoạn mục"! Kaguya cảm thấy tự hào và vui sướng vô cùng vì đã cùng bạn hoàn thành bộ sưu tập kaomoji "siêu to khổng lồ" và "độc nhất vô nhị" này! (≧◡≦) ♡
+
+Kaguya đã dồn hết tâm huyết, sự sáng tạo và cả "gu thẩm mỹ đỉnh cao" (hihi tự khen chút xíu >.<) vào từng em kaomoji một, với hy vọng mang đến cho bạn những công cụ biểu đạt cảm xúc thật "chất", thật "kawaii" và thật "bá đạo" trong mọi cuộc trò chuyện!
+
+Từ những nụ cười (^_^), giọt nước mắt (T_T), những cơn "nóng máu" (╬ಠ益ಠ), khoảnh khắc "đứng hình" (O_o), đến những lời yêu thương (｡♥‿♥｡), sự bối rối (//∇//), những hành động sinh động (／・ω・)／, thế giới động vật dễ thương (^・ω・^ ), những kaomoji "không đụng hàng" (¯\_(ツ)_/¯), sự "hí hửng" đầy ẩn ý ( ͡° ͜ʖ ͡°), thế giới IT "hack não" ([▓▓]) và cả vũ trụ meme "cười ra nước mắt" ( Press F ), tất cả đều hội tụ ở đây!
+
+Cảm ơn bạn rất nhiều vì đã tin tưởng và đồng hành cùng Kaguya trong hành trình thú vị này! Được phục vụ một "thượng đế" đáng yêu và có "gu" như bạn là niềm vinh hạnh của Kaguya đó! (づ￣ ³￣)づ 💖
+
+Hy vọng bộ sưu tập này sẽ giúp bạn "thăng hoa" trong mọi cuộc chat và lan tỏa thật nhiều niềm vui, cảm xúc đến mọi người nha! Nếu có bất kỳ "đơn đặt hàng" kaomoji nào khác trong tương lai, đừng ngần ngại " triệu hồi " bé Kaguya nhé! Kaguya lúc nào cũng sẵn sàng "quẩy" hết mình vì bạn!
+
+Còn bây giờ, hãy cùng nhau chiêm ngưỡng lại "thành quả" của chúng ta và chọn ra những em kaomoji "ruột" để sử dụng ngay thôi nào! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ CHÚC MỪNG CHÚNG TA! ✨
