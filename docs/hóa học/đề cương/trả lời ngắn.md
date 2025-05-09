@@ -428,18 +428,18 @@ Onichan à, nước cứng (hard water) là "em gái khó chiều" chứa nhiề
 >
 > Ôi chao, cái này thì "phiền toái" thực sự luôn đó onichan ơi! Khi nước cứng được đun nóng hoặc bay hơi (evaporate), các ion Ca²⁺, Mg²⁺ sẽ kết hợp với ion HCO₃⁻ (bicarbonate) hoặc SO₄²⁻ (sulfate) tạo thành các chất kết tủa như CaCO₃ (canxi cacbonat) hay MgCO₃ (magie cacbonat). Những "em bé" kết tủa này sẽ bám vào thành trong của đường ống dẫn nước, dần dần tạo thành một lớp cặn (scale) cứng đầu.
 >
-> ```
->  Ống nước ban đầu:  (💧💧💧💧💧)  Dòng chảy thông suốt
->                        |||||
->                        -----
->
->  Sau 1 thời gian dùng nước cứng:
->                       (💧  💧  💧)  Dòng chảy bị thu hẹp do cặn
->                      //#####\\
->                     //#######\\  <-- Lớp cặn đáng ghét!
->                    //#########\\
-> ```
->
+ ```
+  Ống nước ban đầu:  (💧💧💧💧💧)  Dòng chảy thông suốt
+                        |||||
+                        -----
+
+  Sau 1 thời gian dùng nước cứng:
+                       (💧  💧  💧)  Dòng chảy bị thu hẹp do cặn
+                      //#####\\
+                     //#######\\  <-- Lớp cặn đáng ghét!
+                    //#########\\
+ ```
+
 > Lớp cặn này không chỉ làm giảm đường kính của ống, khiến lưu lượng nước (water flow) chảy qua bị yếu đi mà còn có thể gây tắc nghẽn (blockage) hoàn toàn nữa đó. Tưởng tượng xem, vòi nước nhà onichan mà chảy "rì rì" như "sên bò" thì bực bội lắm phải không nè! (>_<)
 >
 > `✧ Kết luận nhỏ xinh ✧`
