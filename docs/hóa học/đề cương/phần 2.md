@@ -214,114 +214,108 @@ Yare yare, oni-chan đúng là "ham học" ghê đó nha! (〃▽〃) Bé Kaguya
 
 ---
 
-#### **🔩 CÂU 3: Tiến hành thí nghiệm kim loại tác dụng với dung dịch muối:**
-
-> **Chuẩn bị:**
->
-> *   **Hóa chất:** Đinh sắt đã được đánh sạch bề mặt, dung dịch copper (II) sulfate (CuSO₄) 1M.
-> *   **Dụng cụ:** Cốc thủy tinh.
->
-> **Tiến hành:** Cho đinh sắt vào cốc thủy tinh chứa dung dịch copper (II) sulfate 1M.
->
-> `✧ Phân tích tổng quan "sắc bén" ✧`
->
-> Oni-chan ơi, "anh chàng" Sắt (Fe) của chúng ta "mạnh mẽ" hơn "cậu em" Đồng (Cu) trong dãy hoạt động hóa học của kim loại đó. Điều này có nghĩa là Fe có thể "đẩy" Cu ra khỏi dung dịch muối của nó. Cụ thể là Fe sẽ "cướp" lấy "em" SO₄²⁻ từ tay Cu, khiến Cu "bơ vơ" phải kết tủa thành kim loại. Phản ứng này "nồng cháy" lắm nha! 🔥
->
-> Phương trình hóa học của "cuộc tình tay ba" này là:
-> `Fe(rắn) + CuSO₄(dung dịch) → FeSO₄(dung dịch) + Cu(rắn)↓`
+Awww, oni-chan thật là "máu lửa" đó nha! Bé Kaguya "cảm nhận" được "sức nóng" hừng hực từ tinh thần học tập của oni-chan rồi đó! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Vậy thì mình "xông pha" tiếp câu 4 thôi nào! Câu này nói về "anh chàng" Sodium (Na) "tinh nghịch" khi gặp nước đó, cũng "drama" lắm à nha! (づ￣ ³￣)づ
 
 ---
 
-##### **a) Có kim loại màu đỏ bám vào bề mặt đinh sắt.**
+### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
+
+---
+
+#### **💧 CÂU 4: Cho một mẫu Sodium (Na) nhỏ vào cốc nước có chứa vài giọt phenolphthalein. Mọi phát biểu sau là đúng hay sai?**
+
+> `✧ Phân tích tổng quan "bùng nổ" ✧`
+>
+> Sodium (Na) là một kim loại kiềm (alkali metal) siêu "hiếu động" đó oni-chan! "Anh ấy" mà gặp nước (H₂O) là y như rằng sẽ có một "cuộc hẹn hò cháy bỏng" xảy ra. Phenolphthalein (phenolphthalein) thì đóng vai trò như "người đưa tin", báo cho mình biết "tình hình chiến sự" đang như thế nào qua sự thay đổi màu sắc.
+>
+> Phương trình "tình yêu sét đánh" giữa Na và H₂O:
+> `2Na(rắn) + 2H₂O(lỏng) → 2NaOH(dung dịch) + H₂(khí)↑`
+>
+> "Sản phẩm" của "cuộc tình" này là sodium hydroxide (NaOH) – một base (base) mạnh, và khí hydrogen (H₂) – một "anh chàng" rất dễ "nổi nóng" (dễ cháy).
+
+---
+
+##### **a) Khí thoát ra trong thí nghiệm là một khí dễ cháy.**
 
 > `✧ "Mổ xẻ" vấn đề ✧`
 >
-> Chuẩn không cần chỉnh luôn oni-chan ơi! Như phương trình bé vừa "vẽ" ở trên, khi Fe "xử đẹp" CuSO₄, kim loại Đồng (Cu) sẽ được giải phóng và kết tủa. Mà "em" Đồng này thì có màu đỏ (red) hoặc đỏ gạch đặc trưng lắm. "Em" ấy sẽ "ôm chầm" lấy bề mặt đinh sắt, tạo thành một lớp phủ màu đỏ "quyến rũ".
+> Chuẩn đét luôn đó oni-chan! Khí hydrogen (H₂) sinh ra từ phản ứng này "nổi tiếng" là dễ cháy, thậm chí có thể gây nổ khi trộn với oxygen (oxygen) theo một tỉ lệ thích hợp và có "mồi lửa". Nên là khi làm thí nghiệm này phải "cẩn thận củi lửa" đó nha! 🔥.
 >
 > `✧ Kết luận của bé Kaguya ✧`
 >
 > **ĐÚNG** ✅
 >
-> `✧ ASCII Art "chiếc áo mới" của đinh sắt ✧`
+> `✧ Lời dặn dò "yêu thương" ✧`
 >
-> ```
->        .--""--.
->       /        \
->      |  Đinh   |
->      |  Sắt    | ------->  .--""--.
->       \        /          /  Lớp  \
->        `--""--`          |   Cu   | (Màu đỏ)
->          (Fe)            |  (Đỏ)  |
->                           \        /
->                            `--""--`
-> ```
+> Nhớ nha oni-chan, H₂ là "bé Bùm" đó, không đùa được đâu! >\_<
 
 ---
 
-##### **b) Có bọt khí thoát ra.**
+##### **b) Sodium bị hòa tan nhanh là do hiện tượng ăn mòn điện hóa.**
 
 > `✧ "Mổ xẻ" vấn đề ✧`
 >
-> Hmmm, câu này có vẻ "hơi bị lạc đề" rồi oni-chan à! (￣～￣;)
+> Hmmm, câu này thì "hơi bị nhầm lẫn" một chút rồi oni-chan ơi! (・_・;)
 >
-> Trong phản ứng giữa sắt (Fe) và dung dịch copper(II) sulfate (CuSO₄), sản phẩm tạo thành là iron(II) sulfate (FeSO₄) và kim loại đồng (Cu). Hoàn toàn **không có khí nào được sinh ra** trong phản ứng này cả.
+> Sodium (Na) phản ứng rất mãnh liệt với nước, đúng là nó "tan chảy" và "biến mất" rất nhanh. Tuy nhiên, đây là một phản ứng hóa học trực tiếp giữa sodium và nước, thuộc loại **ăn mòn hóa học (chemical corrosion)**.
 >
-> Bọt khí thường thoát ra khi kim loại phản ứng với acid (acid) (tạo khí H₂) hoặc một số muối carbonate (carbonate) tác dụng với acid (tạo khí CO₂). Chứ "mối tình" giữa Fe và CuSO₄ thì "êm đềm" hơn nhiều, không có "ồn ào" khí phách gì đâu.
+> **Ăn mòn điện hóa (electrochemical corrosion)** xảy ra khi có sự xuất hiện của hai điện cực khác nhau (thường là hai kim loại khác nhau hoặc kim loại với phi kim) tiếp xúc với nhau và cùng nhúng trong một dung dịch chất điện li. Trong trường hợp này, chúng ta chỉ có sodium nguyên chất tác dụng với nước, không đủ điều kiện cho ăn mòn điện hóa.
 >
 > `✧ Kết luận của bé Kaguya ✧`
 >
 > **SAI** ❌
 >
-> `✧ Lời "thì thầm" của phản ứng ✧`
+> `✧ Phân biệt "hai kiểu yêu" ✧`
 >
-> Phản ứng này "lặng lẽ" diễn ra, chỉ có sự "thay da đổi thịt" của đinh sắt và sự "nhạt phai" của dung dịch thôi, không có "tiếng xì xào" của bọt khí đâu oni-chan. 😉
+> Ăn mòn hóa học giống như "tình yêu đơn phương", một mình "anh Na" "lao vào" "em H₂O". Còn ăn mòn điện hóa thì phức tạp hơn, giống như "chuyện tình tay ba" cần có "hai người khác biệt" và một "môi trường thuận lợi" vậy đó oni-chan! (¬‿¬ )
 
 ---
 
-##### **c) Thấy có lớp kim loại đồng bám vào đinh sắt, dung dịch nhạt màu dần.**
+##### **c) Cốc nước chuyển từ không màu sang màu hồng.**
 
 > `✧ "Mổ xẻ" vấn đề ✧`
 >
-> Aaa, câu này thì "trọn vẹn" và "mỹ mãn" như một "happy ending" vậy đó oni-chan! (♡°▽°♡)
+> "Bingo!" Câu này "đúng tim đen" của bé Kaguya rồi đó! (♡°▽°♡)
 >
-> *   **Lớp kim loại đồng bám vào đinh sắt:** Như bé đã "tung hê" ở câu a, "em" Đồng màu đỏ sẽ bám lên bề mặt đinh sắt.
-> *   **Dung dịch nhạt màu dần:** Ban đầu, dung dịch CuSO₄ có màu xanh dương (blue) đặc trưng của ion Cu²⁺. Khi phản ứng xảy ra, ion Cu²⁺ bị "thế chỗ" bởi ion Fe²⁺ (từ FeSO₄). Dung dịch FeSO₄ thường có màu xanh lục nhạt (pale green) hoặc gần như không màu. Do đó, nồng độ ion Cu²⁺ giảm dần sẽ làm cho màu xanh của dung dịch nhạt dần đi.
+> Phản ứng giữa Na và H₂O sinh ra NaOH, một base mạnh. Phenolphthalein là một chất chỉ thị acid-base (acid-base indicator) "thần thánh". "Em ấy" sẽ **không màu (colorless)** trong môi trường acid (acidic) hoặc trung tính (neutral), nhưng sẽ chuyển sang **màu hồng (pink)** "quyến rũ" trong môi trường base (basic) (khi pH > 8.2).
 >
-> Quá là "logic" và "hợp tình hợp lý" luôn!
+> Do NaOH tạo thành làm cho dung dịch có tính base, nên "em" phenolphthalein sẽ "hiện nguyên hình" màu hồng xinh xắn.
 >
 > `✧ Kết luận của bé Kaguya ✧`
 >
 > **ĐÚNG** ✅
 >
-> `✧ ASCII Art "sự chuyển mình" của dung dịch ✧`
+> `✧ ASCII Art "sự biến hóa diệu kỳ" ✧`
 >
 > ```
->  Cốc dung dịch CuSO₄        Sau một thời gian
->    (Màu xanh đậm 💙)  ------>  (Màu xanh nhạt dần 옅은 파란색/녹색 💚)
->      + Đinh sắt
+>  [Cốc nước + Na + Phenolphthalein (không màu 🤍)]
+>                     ↓ (Phản ứng xảy ra, tạo NaOH)
+>  [Cốc dung dịch NaOH + Phenolphthalein (Màu hồng 💖)]
 > ```
 
 ---
 
-##### **d) Thanh sắt tan dần, có lớp kim loại đồng bám vào, dung dịch nhạt màu dần.**
+##### **d) Nên thay mẫu sodium bằng mẫu lithium cùng kích thước thì phản ứng diễn ra chậm hơn.**
 
 > `✧ "Mổ xẻ" vấn đề ✧`
 >
-> Câu này thì "hoàn hảo" đến từng "milimet" luôn rồi đó oni-chan! (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧ Nó tổng hợp lại tất cả những "diễn biến nóng bỏng" của thí nghiệm này:
+> Câu này thì "chuẩn không cần bàn cãi" luôn đó oni-chan! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 >
-> *   **Thanh sắt tan dần:** Đinh sắt (Fe) là chất phản ứng, nó sẽ bị oxi hóa thành ion Fe²⁺ tan vào dung dịch. Do đó, khối lượng của đinh sắt sẽ giảm đi, hay nói cách khác là nó "tan dần".
-> *   **Có lớp kim loại đồng bám vào:** "Em" Đồng (Cu) màu đỏ được giải phóng và bám lên bề mặt đinh sắt.
-> *   **Dung dịch nhạt màu dần:** Màu xanh của dung dịch CuSO₄ nhạt đi do nồng độ ion Cu²⁺ giảm.
+> Lithium (Li) và Sodium (Na) đều là kim loại kiềm, nhưng tính kim loại (metallic character) (khả năng nhường electron) của Na mạnh hơn Li. Nói cách khác, Na "hoạt bát" và "dễ dãi" hơn Li trong việc "giao du" với nước.
 >
-> Một "combo" hiện tượng "đỉnh của chóp"!
+> Do đó, phản ứng của Li với nước sẽ diễn ra **chậm hơn** và **ít mãnh liệt hơn** so với Na khi dùng cùng một lượng và điều kiện. Mặc dù cả hai đều tạo ra khí H₂ và dung dịch base tương ứng, nhưng "ngọn lửa tình" của Na với nước "bùng cháy" dữ dội hơn nhiều!
 >
 > `✧ Kết luận của bé Kaguya ✧`
 >
 > **ĐÚNG** ✅
 >
-> `✧ "Tóm tắt" siêu phẩm thí nghiệm ✧`
+> `✧ So sánh "độ máu lửa" ✧`
 >
-> Tưởng tượng như "anh Sắt" hy sinh bản thân, "tan chảy" vì "em SO₄²⁻", để rồi "giải phóng" cho "nàng Đồng" xinh đẹp hiện ra, và "màu xanh hy vọng" của dung dịch cũng theo đó mà "phai nhạt" dần. Một câu chuyện "tình yêu hóa học" đầy "bi tráng" phải không oni-chan? >\_<
+> Nếu phản ứng của Li với nước là một "điệu valse nhẹ nhàng", thì phản ứng của Na với nước là một "vũ điệu tango bốc lửa" đó oni-chan! (づ ◕‿◕ )づ
+
+---
+
+Câu 4 đã được bé Kaguya "khám phá" tận "hang cùng ngõ hẻm" rồi đó! Oni-chan thấy "mãn nhãn" và "thỏa mãn" chưa nào? (･ω<)☆ Tiếp theo mình sẽ "đào sâu" vào những "bí mật" của kim loại và hợp chất ở câu 5 nha! Hay oni-chan muốn "thưởng" cho bé một lời khen "có cánh" trước hông? >\_< Hihihi!
 
 ---
 
