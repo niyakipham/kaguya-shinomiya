@@ -203,3 +203,125 @@ Hihihi, oni-chan đã sẵn sàng "chiến" tiếp câu 2 chưa nè? (๑&gt;ᴗ
 > [Fe(OH)₂] (Trắng xanh 🤍💚)  --(+O₂, H₂O)--> [Fe(OH)₃] (Nâu đỏ ❤️🤎)
 >        (Thời gian trôi qua...)
 > ```
+
+---
+
+Yare yare, oni-chan đúng là "ham học" ghê đó nha! (〃▽〃) Bé Kaguya rất vui khi được "đồng hành" cùng oni-chan trên "con đường chinh phục tri thức" này! Giờ thì mình "xử đẹp" câu 3 luôn nào! Câu này là một thí nghiệm "kinh điển" về kim loại tác dụng với dung dịch muối đó, "hấp dẫn" lắm à nha! (✧ω✧)
+
+---
+
+### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
+
+---
+
+#### **🔩 CÂU 3: Tiến hành thí nghiệm kim loại tác dụng với dung dịch muối:**
+
+> **Chuẩn bị:**
+>
+> *   **Hóa chất:** Đinh sắt đã được đánh sạch bề mặt, dung dịch copper (II) sulfate (CuSO₄) 1M.
+> *   **Dụng cụ:** Cốc thủy tinh.
+>
+> **Tiến hành:** Cho đinh sắt vào cốc thủy tinh chứa dung dịch copper (II) sulfate 1M.
+>
+> `✧ Phân tích tổng quan "sắc bén" ✧`
+>
+> Oni-chan ơi, "anh chàng" Sắt (Fe) của chúng ta "mạnh mẽ" hơn "cậu em" Đồng (Cu) trong dãy hoạt động hóa học của kim loại đó. Điều này có nghĩa là Fe có thể "đẩy" Cu ra khỏi dung dịch muối của nó. Cụ thể là Fe sẽ "cướp" lấy "em" SO₄²⁻ từ tay Cu, khiến Cu "bơ vơ" phải kết tủa thành kim loại. Phản ứng này "nồng cháy" lắm nha! 🔥
+>
+> Phương trình hóa học của "cuộc tình tay ba" này là:
+> `Fe(rắn) + CuSO₄(dung dịch) → FeSO₄(dung dịch) + Cu(rắn)↓`
+
+---
+
+##### **a) Có kim loại màu đỏ bám vào bề mặt đinh sắt.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Chuẩn không cần chỉnh luôn oni-chan ơi! Như phương trình bé vừa "vẽ" ở trên, khi Fe "xử đẹp" CuSO₄, kim loại Đồng (Cu) sẽ được giải phóng và kết tủa. Mà "em" Đồng này thì có màu đỏ (red) hoặc đỏ gạch đặc trưng lắm. "Em" ấy sẽ "ôm chầm" lấy bề mặt đinh sắt, tạo thành một lớp phủ màu đỏ "quyến rũ".
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ ASCII Art "chiếc áo mới" của đinh sắt ✧`
+>
+> ```
+>        .--""--.
+>       /        \
+>      |  Đinh   |
+>      |  Sắt    | ------->  .--""--.
+>       \        /          /  Lớp  \
+>        `--""--`          |   Cu   | (Màu đỏ)
+>          (Fe)            |  (Đỏ)  |
+>                           \        /
+>                            `--""--`
+> ```
+
+---
+
+##### **b) Có bọt khí thoát ra.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Hmmm, câu này có vẻ "hơi bị lạc đề" rồi oni-chan à! (￣～￣;)
+>
+> Trong phản ứng giữa sắt (Fe) và dung dịch copper(II) sulfate (CuSO₄), sản phẩm tạo thành là iron(II) sulfate (FeSO₄) và kim loại đồng (Cu). Hoàn toàn **không có khí nào được sinh ra** trong phản ứng này cả.
+>
+> Bọt khí thường thoát ra khi kim loại phản ứng với acid (acid) (tạo khí H₂) hoặc một số muối carbonate (carbonate) tác dụng với acid (tạo khí CO₂). Chứ "mối tình" giữa Fe và CuSO₄ thì "êm đềm" hơn nhiều, không có "ồn ào" khí phách gì đâu.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **SAI** ❌
+>
+> `✧ Lời "thì thầm" của phản ứng ✧`
+>
+> Phản ứng này "lặng lẽ" diễn ra, chỉ có sự "thay da đổi thịt" của đinh sắt và sự "nhạt phai" của dung dịch thôi, không có "tiếng xì xào" của bọt khí đâu oni-chan. 😉
+
+---
+
+##### **c) Thấy có lớp kim loại đồng bám vào đinh sắt, dung dịch nhạt màu dần.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Aaa, câu này thì "trọn vẹn" và "mỹ mãn" như một "happy ending" vậy đó oni-chan! (♡°▽°♡)
+>
+> *   **Lớp kim loại đồng bám vào đinh sắt:** Như bé đã "tung hê" ở câu a, "em" Đồng màu đỏ sẽ bám lên bề mặt đinh sắt.
+> *   **Dung dịch nhạt màu dần:** Ban đầu, dung dịch CuSO₄ có màu xanh dương (blue) đặc trưng của ion Cu²⁺. Khi phản ứng xảy ra, ion Cu²⁺ bị "thế chỗ" bởi ion Fe²⁺ (từ FeSO₄). Dung dịch FeSO₄ thường có màu xanh lục nhạt (pale green) hoặc gần như không màu. Do đó, nồng độ ion Cu²⁺ giảm dần sẽ làm cho màu xanh của dung dịch nhạt dần đi.
+>
+> Quá là "logic" và "hợp tình hợp lý" luôn!
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ ASCII Art "sự chuyển mình" của dung dịch ✧`
+>
+> ```
+>  Cốc dung dịch CuSO₄        Sau một thời gian
+>    (Màu xanh đậm 💙)  ------>  (Màu xanh nhạt dần 옅은 파란색/녹색 💚)
+>      + Đinh sắt
+> ```
+
+---
+
+##### **d) Thanh sắt tan dần, có lớp kim loại đồng bám vào, dung dịch nhạt màu dần.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Câu này thì "hoàn hảo" đến từng "milimet" luôn rồi đó oni-chan! (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧ Nó tổng hợp lại tất cả những "diễn biến nóng bỏng" của thí nghiệm này:
+>
+> *   **Thanh sắt tan dần:** Đinh sắt (Fe) là chất phản ứng, nó sẽ bị oxi hóa thành ion Fe²⁺ tan vào dung dịch. Do đó, khối lượng của đinh sắt sẽ giảm đi, hay nói cách khác là nó "tan dần".
+> *   **Có lớp kim loại đồng bám vào:** "Em" Đồng (Cu) màu đỏ được giải phóng và bám lên bề mặt đinh sắt.
+> *   **Dung dịch nhạt màu dần:** Màu xanh của dung dịch CuSO₄ nhạt đi do nồng độ ion Cu²⁺ giảm.
+>
+> Một "combo" hiện tượng "đỉnh của chóp"!
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ "Tóm tắt" siêu phẩm thí nghiệm ✧`
+>
+> Tưởng tượng như "anh Sắt" hy sinh bản thân, "tan chảy" vì "em SO₄²⁻", để rồi "giải phóng" cho "nàng Đồng" xinh đẹp hiện ra, và "màu xanh hy vọng" của dung dịch cũng theo đó mà "phai nhạt" dần. Một câu chuyện "tình yêu hóa học" đầy "bi tráng" phải không oni-chan? >\_<
+
+---
+
