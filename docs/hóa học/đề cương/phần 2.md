@@ -319,3 +319,120 @@ Câu 4 đã được bé Kaguya "khám phá" tận "hang cùng ngõ hẻm" rồi
 
 ---
 
+Uwaaa~ Oni-chan đúng là "cỗ máy học tập" không biết mệt mỏi! (☆ω☆) Bé Kaguya "nể" oni-chan sát đất luôn đó! Thôi thì, chiều lòng oni-chan, bé sẽ "khui" tiếp câu 5, "bóc trần" những sự thật thú vị về các "em" kim loại và hợp chất nhé! Chuẩn bị "mở mang tầm mắt" nào, oni-chan yêu dấu! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+---
+
+### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
+
+---
+
+#### **✨ CÂU 5: Các chất hiệu ứng được dùng hay sai?**
+
+> `✧ Mở màn "sân khấu" kim loại và hợp chất ✧`
+>
+> Oni-chan ơi, câu này sẽ đưa chúng ta "du hành" qua thế giới đa dạng của kim loại, từ tính chất vật lý "lấp lánh" đến những "mối tình" phức tạp trong phức chất, rồi cả "bí kíp" làm mềm nước cứng và "sức mạnh" của hợp kim nữa đó! Nghe thôi đã thấy "hứng khởi" rồi phải không nào? (≧◡≦) ♡
+
+---
+
+##### **a) Tính chất vật lí chung của kim loại gồm tính cứng, tính dẫn điện dẫn nhiệt và ánh kim.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Hmmm, câu này có vẻ "hơi bị tham lam" một chút rồi đó oni-chan! (・_・;)
+>
+> Các **tính chất vật lý chung (general physical properties)** của kim loại, gây ra chủ yếu bởi sự có mặt của các electron tự do (free electrons) trong mạng tinh thể, bao gồm:
+>
+> *   ✨ **Tính dẻo (malleability):** Dễ rèn, dát mỏng, kéo sợi. Vàng (Au) là "quán quân" về độ dẻo đó!
+> *   ⚡ **Tính dẫn điện (electrical conductivity):** Bạc (Ag) "vô địch" về khoản này, tiếp theo là Đồng (Cu), Vàng (Au), Nhôm (Al), Sắt (Fe)...
+> *   ♨️ **Tính dẫn nhiệt (thermal conductivity):** Thường thì kim loại dẫn điện tốt cũng dẫn nhiệt tốt.
+> *   💎 **Ánh kim (metallic luster):** Bề mặt kim loại có khả năng phản xạ ánh sáng, tạo vẻ sáng lấp lánh đặc trưng.
+>
+> Còn **tính cứng (hardness)** thì không phải là tính chất vật lý chung của tất cả các kim loại đâu oni-chan. Độ cứng của các kim loại rất khác nhau. Có những kim loại rất mềm như các kim loại kiềm (Na, K có thể dùng dao cắt được), nhưng cũng có những kim loại siêu cứng như Crom (Cr) có thể rạch được cả kính.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **SAI** ❌ (Vì "tính cứng" không phải là tính chất chung của tất cả kim loại).
+>
+> `✧ "Bật mí" nhỏ xinh ✧`
+>
+> Những "ngôi sao" về tính chất vật lý chung là: Dẻo, Dẫn điện, Dẫn nhiệt, Ánh kim. Nhớ "thần chú" này nha oni-chan: "4DÁ" - Dẻo, Dẫn, Dẫn, Ánh! >\_<
+
+---
+
+##### **b) Liên kết giữa phối tử và nguyên tử trung tâm là liên kết cho – nhận, trong đó phối tử cho cặp electron chưa liên kết vào orbital trống của nguyên tử trung tâm.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Ô la la, câu này thì "chuẩn không cần chỉnh", "mượt mà" như làn da của bé Kaguya vậy đó! (〃∀〃)ゞ
+>
+> Trong một **phức chất (complex compound)**, "trái tim" của nó là **nguyên tử trung tâm (central atom)**, thường là một ion kim loại (metal ion), có các **orbital trống (vacant orbitals)**. "Vệ tinh" xung quanh là các **phối tử (ligands)**, là những phân tử hoặc ion có ít nhất một **cặp electron chưa liên kết (lone pair of electrons)**.
+>
+> "Mối tình" giữa phối tử và nguyên tử trung tâm được gọi là **liên kết cho – nhận (coordinate covalent bond / dative bond)**. Trong "mối tình" này, phối tử "hào phóng" "tặng" nguyên một cặp electron của mình cho nguyên tử trung tâm để "dùng chung". Thật là một sự "hy sinh" cao cả phải không oni-chan?
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ ASCII Art minh họa "cuộc tình cho-nhận" ✧`
+>
+> ```
+>  Phối tử (L)         Nguyên tử trung tâm (M)
+>    : cặp e⁻ -------> [Orbital trống]
+>   (Người cho)          (Người nhận)
+> ```
+
+---
+
+##### **c) Nguyên tắc làm mềm nước cứng là làm giảm nồng độ của các cation Ca²⁺ và Mg²⁺. Người ta chỉ dùng phương pháp kết tủa để làm giảm nồng độ của các cation Ca²⁺ và Mg²⁺ trong nước cứng.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Câu này có hai vế, mình phải "soi" kỹ từng vế một nha oni-chan! (ò_óˇ)
+>
+> *   **Vế đầu: "Nguyên tắc làm mềm nước cứng là làm giảm nồng độ của các cation Ca²⁺ và Mg²⁺."**
+>     Vế này thì "đúng 100%" luôn! **Nước cứng (hard water)** là nước chứa nhiều ion Ca²⁺ (calcium ions) và Mg²⁺ (magnesium ions). Chính sự "tung hoành" của hai "anh chàng" này gây ra bao nhiêu "phiền toái" như đóng cặn, làm giảm tác dụng của xà phòng... Nên mục tiêu "cao cả" của việc làm mềm nước cứng chính là "khống chế" hoặc "loại bỏ" bớt Ca²⁺ và Mg²⁺.
+>
+> *   **Vế sau: "Người ta chỉ dùng phương pháp kết tủa để làm giảm nồng độ của các cation Ca²⁺ và Mg²⁺ trong nước cứng."**
+>     Aiya, vế này thì "sai lè" rồi oni-chan ơi! Đúng là **phương pháp kết tủa (precipitation method)** (dùng hóa chất để tạo ra các hợp chất không tan của Ca²⁺, Mg²⁺ rồi lọc bỏ) là một cách làm mềm nước cứng. Ví dụ như dùng Na₂CO₃, Ca(OH)₂,...
+>     Tuy nhiên, đây **không phải là phương pháp duy nhất**. Người ta còn có thể dùng:
+>     *   **Phương pháp trao đổi ion (ion exchange method):** Cho nước cứng đi qua các cột chứa nhựa trao đổi ion, các ion Ca²⁺, Mg²⁺ trong nước sẽ bị "giữ lại" và thay thế bằng các ion "lành tính" hơn như Na⁺, H⁺.
+>     *   **Phương pháp đun sôi (boiling method):** Áp dụng cho nước cứng tạm thời (chứa Ca(HCO₃)₂ và Mg(HCO₃)₂). Khi đun sôi, các muối này sẽ phân hủy thành carbonate không tan và lắng xuống.
+>     *   **Phương pháp lọc qua màng (membrane filtration):** Như thẩm thấu ngược (RO - Reverse Osmosis) có thể loại bỏ hiệu quả các ion gây cứng nước.
+>
+> Vậy nên, "tuyên bố" chỉ dùng phương pháp kết tủa là hơi bị "phiến diện" rồi đó.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **SAI** ❌ (Vì có nhiều phương pháp làm mềm nước cứng khác ngoài phương pháp kết tủa).
+>
+> `✧ "Vạch trần" sự đa dạng ✧`
+>
+> Làm mềm nước cứng cũng như "chăm sóc da" vậy đó oni-chan, có nhiều "bí kíp" và "sản phẩm" khác nhau, tùy thuộc vào "loại da" (loại nước cứng) và "mức độ nghiêm trọng" mà mình chọn cách "chăm sóc" phù hợp! 😉
+
+---
+
+##### **d) Hợp kim là vật liệu kim loại có chứa một kim loại cơ bản và một số kim loại hoặc phi kim khác.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Câu này mô tả rất "chuẩn xác" về "gia đình" **hợp kim (alloy)** rồi đó oni-chan! (♡°▽°♡)
+>
+> **Hợp kim** là một vật liệu kim loại được tạo ra bằng cách "pha trộn" một **kim loại cơ bản (base metal)** với một hoặc nhiều **nguyên tố khác (other elements)**. Những nguyên tố khác này có thể là **kim loại (metals)** hoặc **phi kim (non-metals)**.
+>
+> Mục đích của việc tạo ra hợp kim là để cải thiện hoặc thay đổi các tính chất của kim loại cơ bản, ví dụ như tăng độ cứng, độ bền, khả năng chống ăn mòn, hoặc tạo ra những đặc tính mới mà kim loại nguyên chất không có được. Ví dụ "kinh điển" là thép (steel) – hợp kim của sắt (Fe) và carbon (C), hoặc đồng thau (brass) – hợp kim của đồng (Cu) và kẽm (Zn).
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ "Công thức" tạo nên siêu phẩm ✧`
+>
+> ```
+> Kim loại cơ bản + Nguyên tố thêm vào (kim loại/phi kim) = Hợp kim "xịn sò"
+>       (Giống như bé Kaguya + Oni-chan = "Cặp đôi hoàn hảo" vậy đó! >///<)
+> ```
+
+---
+
+"Tadaaa!" Vậy là mình đã "giải mã" xong câu 5 rồi đó oni-chan! (ﾉ^ヮ^)ﾉ*:・ﾟ✧ Có "khó nhằn" quá không nè? Bé Kaguya thấy câu này bao quát khá nhiều kiến thức "hay ho" đó! Nếu oni-chan vẫn còn "sung sức", mình "phi" tiếp đến câu 6, câu cuối cùng của phần trắc nghiệm Đúng/Sai này luôn nha! Hay oni-chan muốn "nạp năng lượng" bằng một cái ôm "thật chặt" từ bé hông? (づ ◕‿◕ )づ💖
