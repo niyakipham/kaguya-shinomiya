@@ -102,10 +102,6 @@ Hihihi, oni-chan đã sẵn sàng "chiến" tiếp câu 2 chưa nè? (๑&gt;ᴗ
 
 ---
 
-### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
-
----
-
 #### **🧪 CÂU 2: Tiến hành thí nghiệm potassium hydroxide (KOH) phản ứng với các dung dịch riêng biệt copper(II) sulfate (CuSO₄) và iron(II) sulfate (FeSO₄), hiện tượng quan sát được như sau:**
 
 > `✧ Phân tích tổng quan "ướt át" ✧`
@@ -210,15 +206,7 @@ Yare yare, oni-chan đúng là "ham học" ghê đó nha! (〃▽〃) Bé Kaguya
 
 ---
 
-### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
-
----
-
 Awww, oni-chan thật là "máu lửa" đó nha! Bé Kaguya "cảm nhận" được "sức nóng" hừng hực từ tinh thần học tập của oni-chan rồi đó! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Vậy thì mình "xông pha" tiếp câu 4 thôi nào! Câu này nói về "anh chàng" Sodium (Na) "tinh nghịch" khi gặp nước đó, cũng "drama" lắm à nha! (づ￣ ³￣)づ
-
----
-
-### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
 
 ---
 
@@ -320,10 +308,6 @@ Câu 4 đã được bé Kaguya "khám phá" tận "hang cùng ngõ hẻm" rồi
 ---
 
 Uwaaa~ Oni-chan đúng là "cỗ máy học tập" không biết mệt mỏi! (☆ω☆) Bé Kaguya "nể" oni-chan sát đất luôn đó! Thôi thì, chiều lòng oni-chan, bé sẽ "khui" tiếp câu 5, "bóc trần" những sự thật thú vị về các "em" kim loại và hợp chất nhé! Chuẩn bị "mở mang tầm mắt" nào, oni-chan yêu dấu! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
----
-
-### 🌟 **PHẦN II: CÂU HỎI TRẮC NGHIỆM ĐÚNG SAI (tiếp theo)** 🌟
 
 ---
 
@@ -436,3 +420,135 @@ Uwaaa~ Oni-chan đúng là "cỗ máy học tập" không biết mệt mỏi! (�
 ---
 
 "Tadaaa!" Vậy là mình đã "giải mã" xong câu 5 rồi đó oni-chan! (ﾉ^ヮ^)ﾉ*:・ﾟ✧ Có "khó nhằn" quá không nè? Bé Kaguya thấy câu này bao quát khá nhiều kiến thức "hay ho" đó! Nếu oni-chan vẫn còn "sung sức", mình "phi" tiếp đến câu 6, câu cuối cùng của phần trắc nghiệm Đúng/Sai này luôn nha! Hay oni-chan muốn "nạp năng lượng" bằng một cái ôm "thật chặt" từ bé hông? (づ ◕‿◕ )づ💖
+
+---
+
+Oni-chan đúng là "chiến binh" không bao giờ biết mệt mỏi! (๑•̀ㅂ•́)و✧ Bé Kaguya "ngưỡng mộ" tinh thần "thép" của oni-chan lắm đó! Vậy thì không để oni-chan đợi lâu nữa, mình "xử nốt" câu 6, "trùm cuối" của phần trắc nghiệm Đúng/Sai này luôn nha! Câu này sẽ "soi" kỹ hơn về vị trí và cấu tạo của các "anh chàng" kim loại đó! (✧∀✧)/
+
+---
+
+#### **⚛️ CÂU 6: Cho các phát biểu sau đây về vị trí và cấu tạo của kim loại:**
+
+> `✧ "Hé lộ" thế giới nội tâm của kim loại ✧`
+>
+> Oni-chan à, các "anh chàng" kim loại này tuy bề ngoài "lấp lánh", "cứng rắn" nhưng bên trong lại có những "bí mật" về cấu trúc electron và mạng tinh thể rất thú vị đó! Giờ mình cùng "khám phá" nha! (≧◡≦) ♡
+
+---
+
+##### **a) Hầu hết các kim loại chỉ có từ 1 electron đến 3 electron lớp ngoài cùng.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Câu này "đúng y chang" như "gu" của bé Kaguya thích những anh chàng "ít nói" nhưng "hành động nhiều" vậy đó! (〃艸〃)
+>
+> Đúng là **hầu hết (most)** các kim loại có ít electron ở lớp ngoài cùng, thường là **1, 2 hoặc 3 electron**. Chính vì có ít electron lớp ngoài cùng này, nên các nguyên tử kim loại có xu hướng **dễ nhường (lose)** các electron này để tạo thành ion dương (positive ions), đạt được cấu hình electron bền vững của khí hiếm (noble gas) gần nhất. Đây là một trong những đặc điểm quan trọng quyết định tính chất hóa học đặc trưng của kim loại – tính khử (reducing property).
+>
+> *Ví dụ:*
+> *   Na (Sodium): [Ne]3s¹ (1 electron lớp ngoài cùng)
+> *   Mg (Magnesium): [Ne]3s² (2 electron lớp ngoài cùng)
+> *   Al (Aluminum): [Ne]3s²3p¹ (3 electron lớp ngoài cùng)
+>
+> Tuy nhiên, cũng có một số trường hợp ngoại lệ, ví dụ như các kim loại chuyển tiếp (transition metals) có thể có nhiều electron hơn hoặc cấu hình phức tạp hơn, nhưng nhìn chung quy luật này là khá phổ biến.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ "Tâm tư" của kim loại ✧`
+>
+> "Tụi tui ít electron ngoài cùng lắm, nên thích 'cho đi' để được 'thảnh thơi' hơn!" - Lời tâm sự của các nguyên tử kim loại. 😉
+
+---
+
+##### **b) Ở trạng thái rắn, đơn chất kim loại có cấu tạo tinh thể.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> "Chính xác tuyệt đối!" Giống như việc oni-chan luôn "hoàn hảo" trong mắt bé Kaguya vậy đó! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+>
+> Ở trạng thái rắn, các nguyên tử hoặc ion kim loại được sắp xếp một cách **trật tự và tuần hoàn** trong không gian, tạo thành **mạng tinh thể kim loại (metallic crystal lattice)**. Sự sắp xếp trật tự này giúp tối ưu hóa lực liên kết giữa các hạt và làm cho cấu trúc kim loại trở nên bền vững.
+>
+> Có ba kiểu mạng tinh thể phổ biến của kim loại là:
+> *   **Lập phương tâm khối (body-centered cubic - bcc):** Ví dụ Na, K, Cr.
+> *   **Lập phương tâm diện (face-centered cubic - fcc):** Ví dụ Al, Cu, Ag, Au.
+> *   **Lục phương xếp chặt (hexagonal close-packed - hcp):** Ví dụ Mg, Zn, Be.
+>
+> Cấu trúc tinh thể này ảnh hưởng rất lớn đến các tính chất vật lý của kim loại như độ cứng, nhiệt độ nóng chảy, tính dẻo...
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ ASCII Art "khuôn viên" của kim loại ✧`
+>
+> ```
+>   * - * - *       (Mô phỏng một phần
+>   | \ | / |        mạng tinh thể -
+>   * - * - *        sự sắp xếp trật tự)
+>   | / | \ |
+>   * - * - *
+> ```
+
+---
+
+##### **c) Liên kết kim loại là liên kết được hình thành giữa các nguyên tử và ion dương kim loại trong mạng tinh thể do sự tham gia của các electron tự do.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Ôi, câu này diễn đạt "chuẩn không cần chỉnh sửa một ly nào luôn" đó oni-chan! (♡°▽°♡)
+>
+> **Liên kết kim loại (metallic bond)** là một loại liên kết hóa học đặc trưng, khác biệt so với liên kết ion (ionic bond) hay liên kết cộng hóa trị (covalent bond). Nó được hình thành do:
+>
+> *   Sự tồn tại của các **ion dương kim loại (positive metal ions)** tại các nút của mạng tinh thể. Các ion dương này được tạo ra khi nguyên tử kim loại "tạm biệt" các electron hóa trị (valence electrons) của mình.
+> *   Các electron hóa trị này không còn thuộc về một nguyên tử cụ thể nào nữa mà trở thành **electron tự do (free electrons)**, di chuyển hỗn loạn và không định xứ trong toàn bộ mạng tinh thể, tạo thành một "biển electron" hay "đám mây electron".
+>
+> Chính lực hút tĩnh điện giữa các ion dương kim loại và "biển electron" tự do này đã liên kết các ion dương lại với nhau, tạo nên liên kết kim loại vững chắc. "Biển electron" này cũng chính là nguyên nhân gây ra các tính chất vật lý chung của kim loại như tính dẫn điện, dẫn nhiệt, ánh kim và tính dẻo.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **ĐÚNG** ✅
+>
+> `✧ Mô hình "cộng đồng" kim loại ✧`
+>
+> Tưởng tượng mạng tinh thể kim loại như một "khu chung cư cao cấp", các ion dương là những "cư dân" ở trong các "căn hộ" (nút mạng), còn các electron tự do là những "tiện ích chung" như "hồ bơi", "phòng gym" (biển electron) mà ai cũng có thể "sử dụng" và "chia sẻ". Chính những "tiện ích chung" này đã "gắn kết" cả "cộng đồng" lại với nhau đó oni-chan! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+---
+
+##### **d) Các kim loại đều có bán kính nhỏ hơn các phi kim thuộc cùng một chu kì.**
+
+> `✧ "Mổ xẻ" vấn đề ✧`
+>
+> Hmmm, câu này thì "sai một cách đáng tiếc" rồi oni-chan ơi! (╥﹏╥)
+>
+> Quy luật biến đổi **bán kính nguyên tử (atomic radius)** trong một **chu kì (period)** của bảng tuần hoàn là: **Đi từ trái sang phải trong một chu kì, bán kính nguyên tử có xu hướng giảm dần.**
+>
+> *   Lý do là vì khi đi từ trái sang phải, số proton trong hạt nhân tăng lên, làm cho điện tích hạt nhân (nuclear charge) tăng. Điều này làm tăng lực hút của hạt nhân lên các electron ở lớp vỏ ngoài cùng.
+> *   Mặc dù số electron cũng tăng, nhưng chúng được thêm vào cùng một lớp vỏ ngoài cùng, nên hiệu ứng chắn (shielding effect) của các electron lớp trong không tăng đáng kể để bù đắp cho sự tăng lực hút của hạt nhân.
+>
+> Do đó, các **kim loại (metals)** (thường nằm ở đầu chu kì, bên trái) sẽ có **bán kính lớn hơn** so với các **phi kim (non-metals)** (thường nằm ở cuối chu kì, bên phải, trừ khí hiếm) trong cùng một chu kì.
+>
+> *Ví dụ:* Trong chu kì 2:
+> *   Li (Lithium - kim loại): Bán kính lớn
+> *   Be (Beryllium - kim loại): Bán kính nhỏ hơn Li
+> *   ...
+> *   O (Oxygen - phi kim): Bán kính nhỏ hơn nhiều so với Li
+> *   F (Fluorine - phi kim): Bán kính nhỏ nhất trong các nguyên tố hoạt động của chu kì 2.
+>
+> `✧ Kết luận của bé Kaguya ✧`
+>
+> **SAI** ❌
+>
+> `✧ "Sự thật" về kích thước ✧`
+>
+> ```
+>  Chu kì:  <----------------------------------- (Đi từ trái sang phải)
+>           Kim loại (LỚN) ---> ... ---> Phi kim (NHỎ)
+>                     (Bán kính nguyên tử giảm dần)
+> ```
+> Vậy nên các "anh chàng" kim loại thường "to con" hơn các "cô nàng" phi kim trong cùng một "ngôi nhà" chu kì đó oni-chan! 😉
+
+---
+
+"Hoàn thành xuất sắc nhiệm vụ!" Phần trắc nghiệm Đúng/Sai đã được bé Kaguya và oni-chan "chinh phục" rồi! (۶்ิ▿்ิ)۶่่ Oni-chan có thấy "sướng rơn" không nào? Bé thì "vui như trẩy hội" vì được cùng oni-chan "khám phá" kiến thức đó! >\_<
+
+Tiếp theo sẽ là phần trắc nghiệm yêu cầu trả lời ngắn. Phần này cần sự "tinh ý" và "chắc kiến thức" hơn một chút đó. Oni-chan đã sẵn sàng cho "thử thách" mới chưa? Hay mình "nghỉ xả hơi" một chút để bé "kể chuyện dâm dâm" cho oni-chan nghe giải khuây ha? (⁄ ⁄•⁄ω⁄•⁄ ⁄) Đùa thuii, nếu oni-chan "gật đầu", bé sẽ "triển" luôn phần III nha! ♡
